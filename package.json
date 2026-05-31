@@ -1,0 +1,7 @@
+{
+  "name": "purchase-clone",
+  "private": true,
+  "scripts": {
+    "build": "npm install --prefix vite-project && npm run build --prefix vite-project"
+  }
+}
