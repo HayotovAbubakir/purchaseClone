@@ -1,0 +1,1689 @@
+{
+  "bg": "https://system.spektrix.com/lookingglasstheatre/files/278edf58-fd38-443f-9d46-f84a67af75e4.gif",
+  "width": "800px",
+  "seats": [
+    {
+      "title": "",
+      "selectable": false,
+      "top": "0px",
+      "left": "0px",
+      "width": "100%",
+      "height": "100%",
+      "bg": ""
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "77.125%",
+      "left": "30.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A2 - $32.70 - Companion Seat",
+      "selectable": true,
+      "top": "73.375%",
+      "left": "30.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(126, 217, 87) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A3 - $56.68",
+      "selectable": true,
+      "top": "69.625%",
+      "left": "30.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A4 - $56.68 - Companion Seat",
+      "selectable": true,
+      "top": "65.875%",
+      "left": "30.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A5 - $56.68 - Accessible Seat",
+      "selectable": true,
+      "top": "62.125%",
+      "left": "30.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A6 - $56.68 - Companion Seat",
+      "selectable": true,
+      "top": "58.375%",
+      "left": "30.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A7 - $78.48 - Accessible Seat",
+      "selectable": true,
+      "top": "54.625%",
+      "left": "30.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A8 - $78.48 - Companion Seat",
+      "selectable": true,
+      "top": "50.875%",
+      "left": "30.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A9 - $78.48 - Accessible Seat",
+      "selectable": true,
+      "top": "47.125%",
+      "left": "30.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "32.125%",
+      "left": "41.6667%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "32.125%",
+      "left": "44.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "32.125%",
+      "left": "47.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "32.125%",
+      "left": "50%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "32.125%",
+      "left": "52.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A27 - $78.48",
+      "selectable": true,
+      "top": "32.125%",
+      "left": "55.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A28 - $78.48",
+      "selectable": true,
+      "top": "32.125%",
+      "left": "58.3333%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A29 - $78.48",
+      "selectable": true,
+      "top": "32.125%",
+      "left": "61.1111%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A30 - $78.48",
+      "selectable": true,
+      "top": "32.125%",
+      "left": "63.8889%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A31 - $56.68",
+      "selectable": true,
+      "top": "32.125%",
+      "left": "66.6667%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A32 - $56.68 - Aisle Seat",
+      "selectable": true,
+      "top": "32.125%",
+      "left": "69.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A34 - $56.68 - Aisle Seat",
+      "selectable": true,
+      "top": "32.125%",
+      "left": "75%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A35 - $56.68",
+      "selectable": true,
+      "top": "32.125%",
+      "left": "77.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A36 - $38.15",
+      "selectable": true,
+      "top": "32.125%",
+      "left": "80.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "A37 - $38.15",
+      "selectable": true,
+      "top": "32.125%",
+      "left": "83.3333%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "85.125%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "81.375%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "77.625%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "73.875%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "66.125%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "62.375%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "58.625%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "54.875%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "47%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "43.25%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "39.5%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "35.75%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "28.25%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "24.5%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "20.75%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "17%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "13.25%",
+      "left": "13.0556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "19.3519%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "22.1296%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "24.9074%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "27.6852%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "33.2407%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "38.7963%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "41.5741%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "44.3519%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "47.1296%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "52.6852%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "58.2407%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "61.0185%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "63.7963%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "66.5741%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "72.1296%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "77.6852%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "80.463%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "83.2407%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "10.25%",
+      "left": "86.0185%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B1 - $32.70 - Aisle Seat",
+      "selectable": true,
+      "top": "77.125%",
+      "left": "27.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(126, 217, 87) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B2 - $32.70",
+      "selectable": true,
+      "top": "73.375%",
+      "left": "27.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(126, 217, 87) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B3 - $56.68",
+      "selectable": true,
+      "top": "69.625%",
+      "left": "27.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B4 - $56.68",
+      "selectable": true,
+      "top": "65.875%",
+      "left": "27.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B5 - $56.68",
+      "selectable": true,
+      "top": "62.125%",
+      "left": "27.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B6 - $56.68",
+      "selectable": true,
+      "top": "58.375%",
+      "left": "27.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B7 - $78.48",
+      "selectable": true,
+      "top": "54.625%",
+      "left": "27.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B8 - $78.48",
+      "selectable": true,
+      "top": "50.875%",
+      "left": "27.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "47.125%",
+      "left": "27.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "43.375%",
+      "left": "27.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "39.625%",
+      "left": "27.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "35.875%",
+      "left": "27.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "28.375%",
+      "left": "36.1111%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "28.375%",
+      "left": "38.8889%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "28.375%",
+      "left": "41.6667%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "28.375%",
+      "left": "44.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "28.375%",
+      "left": "47.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "28.375%",
+      "left": "50%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B26 - $78.48",
+      "selectable": true,
+      "top": "28.375%",
+      "left": "52.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B27 - $78.48",
+      "selectable": true,
+      "top": "28.375%",
+      "left": "55.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B28 - $78.48",
+      "selectable": true,
+      "top": "28.375%",
+      "left": "58.3333%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B29 - $78.48",
+      "selectable": true,
+      "top": "28.375%",
+      "left": "61.1111%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B30 - $78.48",
+      "selectable": true,
+      "top": "28.375%",
+      "left": "63.8889%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "28.375%",
+      "left": "66.6667%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "28.375%",
+      "left": "69.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B34 - $56.68 - Aisle Seat",
+      "selectable": true,
+      "top": "28.375%",
+      "left": "75%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B35 - $56.68",
+      "selectable": true,
+      "top": "28.375%",
+      "left": "77.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B36 - $38.15",
+      "selectable": true,
+      "top": "28.375%",
+      "left": "80.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "B37 - $38.15",
+      "selectable": true,
+      "top": "28.375%",
+      "left": "83.3333%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "77.125%",
+      "left": "25%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "73.375%",
+      "left": "25%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C3 - $56.68",
+      "selectable": true,
+      "top": "69.625%",
+      "left": "25%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C4 - $56.68",
+      "selectable": true,
+      "top": "65.875%",
+      "left": "25%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C5 - $56.68",
+      "selectable": true,
+      "top": "62.125%",
+      "left": "25%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C6 - $56.68",
+      "selectable": true,
+      "top": "58.375%",
+      "left": "25%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C7 - $78.48",
+      "selectable": true,
+      "top": "54.625%",
+      "left": "25%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C8 - $78.48",
+      "selectable": true,
+      "top": "50.875%",
+      "left": "25%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C9 - $78.48",
+      "selectable": true,
+      "top": "47.125%",
+      "left": "25%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C10 - $78.48",
+      "selectable": true,
+      "top": "43.375%",
+      "left": "25%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C11 - $78.48",
+      "selectable": true,
+      "top": "39.625%",
+      "left": "25%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C12 - $78.48",
+      "selectable": true,
+      "top": "35.875%",
+      "left": "25%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "32.125%",
+      "left": "25%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "28.375%",
+      "left": "25%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "24.625%",
+      "left": "33.3333%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "24.625%",
+      "left": "36.1111%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C21 - $78.48",
+      "selectable": true,
+      "top": "24.625%",
+      "left": "38.8889%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C22 - $78.48",
+      "selectable": true,
+      "top": "24.625%",
+      "left": "41.6667%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C23 - $78.48",
+      "selectable": true,
+      "top": "24.625%",
+      "left": "44.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C24 - $78.48",
+      "selectable": true,
+      "top": "24.625%",
+      "left": "47.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C25 - $78.48",
+      "selectable": true,
+      "top": "24.625%",
+      "left": "50%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C26 - $78.48",
+      "selectable": true,
+      "top": "24.625%",
+      "left": "52.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "24.625%",
+      "left": "55.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "24.625%",
+      "left": "58.3333%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "24.625%",
+      "left": "61.1111%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "24.625%",
+      "left": "63.8889%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C31 - $56.68",
+      "selectable": true,
+      "top": "24.625%",
+      "left": "66.6667%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C32 - $56.68 - Aisle Seat",
+      "selectable": true,
+      "top": "24.625%",
+      "left": "69.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C34 - $56.68 - Aisle Seat",
+      "selectable": true,
+      "top": "24.625%",
+      "left": "75%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C35 - $56.68",
+      "selectable": true,
+      "top": "24.625%",
+      "left": "77.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C36 - $38.15",
+      "selectable": true,
+      "top": "24.625%",
+      "left": "80.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "C37 - $38.15",
+      "selectable": true,
+      "top": "24.625%",
+      "left": "83.3333%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "77.125%",
+      "left": "22.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "73.375%",
+      "left": "22.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D3 - $56.68",
+      "selectable": true,
+      "top": "69.625%",
+      "left": "22.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D4 - $56.68",
+      "selectable": true,
+      "top": "65.875%",
+      "left": "22.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D5 - $56.68",
+      "selectable": true,
+      "top": "62.125%",
+      "left": "22.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D6 - $56.68",
+      "selectable": true,
+      "top": "58.375%",
+      "left": "22.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D7 - $78.48",
+      "selectable": true,
+      "top": "54.625%",
+      "left": "22.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D8 - $78.48",
+      "selectable": true,
+      "top": "50.875%",
+      "left": "22.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D9 - $78.48",
+      "selectable": true,
+      "top": "47.125%",
+      "left": "22.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D10 - $78.48",
+      "selectable": true,
+      "top": "43.375%",
+      "left": "22.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D11 - $78.48",
+      "selectable": true,
+      "top": "39.625%",
+      "left": "22.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D12 - $78.48",
+      "selectable": true,
+      "top": "35.875%",
+      "left": "22.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "32.125%",
+      "left": "22.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "28.375%",
+      "left": "22.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "20.875%",
+      "left": "33.3333%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "20.875%",
+      "left": "36.1111%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D21 - $78.48",
+      "selectable": true,
+      "top": "20.875%",
+      "left": "38.8889%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D22 - $78.48",
+      "selectable": true,
+      "top": "20.875%",
+      "left": "41.6667%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D23 - $78.48",
+      "selectable": true,
+      "top": "20.875%",
+      "left": "44.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D24 - $78.48",
+      "selectable": true,
+      "top": "20.875%",
+      "left": "47.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D25 - $78.48",
+      "selectable": true,
+      "top": "20.875%",
+      "left": "50%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D26 - $78.48",
+      "selectable": true,
+      "top": "20.875%",
+      "left": "52.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D27 - $78.48",
+      "selectable": true,
+      "top": "20.875%",
+      "left": "55.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D28 - $78.48",
+      "selectable": true,
+      "top": "20.875%",
+      "left": "58.3333%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D29 - $78.48",
+      "selectable": true,
+      "top": "20.875%",
+      "left": "61.1111%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D30 - $78.48",
+      "selectable": true,
+      "top": "20.875%",
+      "left": "63.8889%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "20.875%",
+      "left": "66.6667%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "20.875%",
+      "left": "69.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D34 - $56.68 - Aisle Seat",
+      "selectable": true,
+      "top": "20.875%",
+      "left": "75%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D35 - $56.68",
+      "selectable": true,
+      "top": "20.875%",
+      "left": "77.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(255, 157, 231) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D36 - $38.15",
+      "selectable": true,
+      "top": "20.875%",
+      "left": "80.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "D37 - $38.15",
+      "selectable": true,
+      "top": "20.875%",
+      "left": "83.3333%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "77.125%",
+      "left": "19.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "73.375%",
+      "left": "19.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "E3 - $38.15",
+      "selectable": true,
+      "top": "69.625%",
+      "left": "19.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "E4 - $38.15",
+      "selectable": true,
+      "top": "65.875%",
+      "left": "19.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "E5 - $38.15",
+      "selectable": true,
+      "top": "62.125%",
+      "left": "19.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "E6 - $38.15",
+      "selectable": true,
+      "top": "58.375%",
+      "left": "19.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "E7 - $38.15",
+      "selectable": true,
+      "top": "54.625%",
+      "left": "19.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "50.875%",
+      "left": "19.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "47.125%",
+      "left": "19.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "43.375%",
+      "left": "19.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "E11 - $78.48",
+      "selectable": true,
+      "top": "39.625%",
+      "left": "19.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "E12 - $78.48",
+      "selectable": true,
+      "top": "35.875%",
+      "left": "19.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "E13 - $78.48",
+      "selectable": true,
+      "top": "32.125%",
+      "left": "19.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "E14 - $78.48",
+      "selectable": true,
+      "top": "28.375%",
+      "left": "19.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(237, 142, 53) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "20.875%",
+      "left": "19.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "17.125%",
+      "left": "25%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "17.125%",
+      "left": "27.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "17.125%",
+      "left": "30.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "E20 - $38.15",
+      "selectable": true,
+      "top": "17.125%",
+      "left": "36.1111%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "17.125%",
+      "left": "41.6667%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "17.125%",
+      "left": "44.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "17.125%",
+      "left": "47.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "E25 - $38.15",
+      "selectable": true,
+      "top": "17.125%",
+      "left": "50%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "E27 - $38.15",
+      "selectable": true,
+      "top": "17.125%",
+      "left": "55.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "17.125%",
+      "left": "61.1111%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "17.125%",
+      "left": "63.8889%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "E31 - $38.15",
+      "selectable": true,
+      "top": "17.125%",
+      "left": "66.6667%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "17.125%",
+      "left": "69.4444%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "17.125%",
+      "left": "72.2222%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "Unavailable",
+      "selectable": false,
+      "top": "17.125%",
+      "left": "75%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(204, 204, 204) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "E35 - $38.15",
+      "selectable": true,
+      "top": "17.125%",
+      "left": "77.7778%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "E36 - $38.15",
+      "selectable": true,
+      "top": "17.125%",
+      "left": "80.5556%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    },
+    {
+      "title": "E37 - $38.15",
+      "selectable": true,
+      "top": "17.125%",
+      "left": "83.3333%",
+      "width": "1.66667%",
+      "height": "2.25%",
+      "bg": "radial-gradient(rgb(80, 65, 255) 70%, rgb(255, 255, 255) 70%)"
+    }
+  ]
+}

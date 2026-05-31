@@ -1,0 +1,848 @@
+{
+  "11801": {
+    "title": "purchase.lookingglasstheatre.org",
+    "url": "https://purchase.lookingglasstheatre.org/EventAvailability?EventId=11801&ref=bookNow&scroll=timeAndDates",
+    "mainText": "UNTITLED VAMPIRE PLAY\nThursday\n\nJune 04, 2026 | 7:30 PM\n\nPWYC, Playwrights Night\n\nLIMITED AVAILABILITY\nFriday\n\nJune 05, 2026 | 7:30 PM\n\nBOOK NOW\nSaturday\n\nJune 06, 2026 | 7:30 PM\n\nBOOK NOW\nSunday\n\nJune 07, 2026 | 2:00 PM\n\nLIMITED AVAILABILITY\nWednesday\n\nJune 10, 2026 | 7:30 PM\n\nPWYC, University Night, Performance will be filmed\n\nLIMITED AVAILABILITY\nThursday\n\nJune 11, 2026 | 7:30 PM\n\nHow Does Cirque Work?\n\nBOOK NOW\nFriday\n\nJune 12, 2026 | 7:30 PM\n\nLIMITED AVAILABILITY\nSunday\n\nJune 14, 2026 | 2:00 PM\n\nBOOK NOW\nTuesday\n\nJune 16, 2026 | 7:30 PM\n\nVampire Night\n\nBOOK NOW\nWednesday\n\nJune 17, 2026 | 7:30 PM\n\nStage Combat Night\n\nBOOK NOW\nThursday\n\nJune 18, 2026 | 2:00 PM\n\nBOOK NOW\nThursday\n\nJune 18, 2026 | 7:30 PM\n\nBOOK NOW\nSaturday\n\nJune 20, 2026 | 2:00 PM\n\nThis Performance will be filmed.\n\nBOOK NOW\nSaturday\n\nJune 20, 2026 | 7:30 PM\n\nBOOK NOW\nSunday\n\nJune 21, 2026 | 2:00 PM\n\nBOOK NOW\nWednesday\n\nJune 24, 2026 | 7:30 PM\n\nThis Performance is mask required.\n\nBOOK NOW\nThursday\n\nJune 25, 2026 | 2:00 PM\n\nBOOK NOW\nThursday\n\nJune 25, 2026 | 7:30 PM\n\nBOOK NOW\nFriday\n\nJune 26, 2026 | 7:30 PM\n\nBOOK NOW\nSaturday\n\nJune 27, 2026 | 2:00 PM\n\nPride Day\n\nBOOK NOW\nSaturday\n\nJune 27, 2026 | 7:30 PM\n\nBOOK NOW\nSunday\n\nJune 28, 2026 | 2:00 PM\n\nBOOK NOW\nTuesday\n\nJune 30, 2026 | 7:30 PM\n\nBOOK NOW\nWednesday\n\nJuly 01, 2026 | 7:30 PM\n\nOpen Captioned Performance\n\nBOOK NOW\nThursday\n\nJuly 02, 2026 | 2:00 PM\n\nBOOK NOW\nThursday\n\nJuly 02, 2026 | 7:30 PM\n\nTouch Tour at 6:30PM, Audio Description at 7:30PM\n\nBOOK NOW\nFriday\n\nJuly 03, 2026 | 7:30 PM\n\nBOOK NOW\nSunday\n\nJuly 05, 2026 | 2:00 PM\n\nBOOK NOW\nSunday\n\nJuly 05, 2026 | 7:30 PM\n\nBOOK NOW\nTuesday\n\nJuly 07, 2026 | 7:30 PM\n\nBOOK NOW\nWednesday\n\nJuly 08, 2026 | 7:30 PM\n\nBOOK NOW\nThursday\n\nJuly 09, 2026 | 7:30 PM\n\nBOOK NOW\nFriday\n\nJuly 10, 2026 | 7:30 PM\n\nBOOK NOW\nSaturday\n\nJuly 11, 2026 | 2:00 PM\n\nBOOK NOW\nSaturday\n\nJuly 11, 2026 | 7:30 PM\n\nBOOK NOW\nSunday\n\nJuly 12, 2026 | 2:00 PM\n\nBOOK NOW",
+    "headings": [
+      {
+        "tag": "H1",
+        "class": "MuiTypography-root MuiTypography-h1 custom-title css-1eycysl",
+        "text": "UNTITLED VAMPIRE PLAY",
+        "styles": {
+          "fontSize": "35px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "32px 0px 0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Thursday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Friday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Saturday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Sunday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Wednesday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Thursday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Friday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Sunday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Tuesday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Wednesday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Thursday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Thursday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Saturday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Saturday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Sunday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Wednesday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Thursday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Thursday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Friday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Saturday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Saturday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Sunday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Tuesday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Wednesday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Thursday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Thursday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Friday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Sunday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Sunday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Tuesday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Wednesday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Thursday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Friday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Saturday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Saturday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Sunday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Limited Availability",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/56801"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/51203"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/51204"
+      },
+      {
+        "text": "Limited Availability",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50401"
+      },
+      {
+        "text": "Limited Availability",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/57001"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50802"
+      },
+      {
+        "text": "Limited Availability",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/51207"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50402"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50815"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50803"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50409"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50804"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50601"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/51001"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50403"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50805"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50410"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50806"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/51002"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50602"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/51003"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50404"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/51201"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50807"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50411"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50808"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/51004"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50405"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/51601"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/57201"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50809"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50810"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/51006"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50604"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/51007"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/50406"
+      }
+    ],
+    "tables": [],
+    "sections": [
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Thursday\n\nJune 04, 2026 | 7:30 PM\n\nPWYC, Playwrights Night\n\nLIMITED AVAILABILITY"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Friday\n\nJune 05, 2026 | 7:30 PM\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Saturday\n\nJune 06, 2026 | 7:30 PM\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Sunday\n\nJune 07, 2026 | 2:00 PM\n\nLIMITED AVAILABILITY"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Wednesday\n\nJune 10, 2026 | 7:30 PM\n\nPWYC, University Night, Performance will be filmed\n\nLIMITED AVAILABILITY"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Thursday\n\nJune 11, 2026 | 7:30 PM\n\nHow Does Cirque Work?\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Friday\n\nJune 12, 2026 | 7:30 PM\n\nLIMITED AVAILABILITY"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Sunday\n\nJune 14, 2026 | 2:00 PM\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Tuesday\n\nJune 16, 2026 | 7:30 PM\n\nVampire Night\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Wednesday\n\nJune 17, 2026 | 7:30 PM\n\nStage Combat Night\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Thursday\n\nJune 18, 2026 | 2:00 PM\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Thursday\n\nJune 18, 2026 | 7:30 PM\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Saturday\n\nJune 20, 2026 | 2:00 PM\n\nThis Performance will be filmed.\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Saturday\n\nJune 20, 2026 | 7:30 PM\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Sunday\n\nJune 21, 2026 | 2:00 PM\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Wednesday\n\nJune 24, 2026 | 7:30 PM\n\nThis Performance is mask required.\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Thursday\n\nJune 25, 2026 | 2:00 PM\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Thursday\n\nJune 25, 2026 | 7:30 PM\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Friday\n\nJune 26, 2026 | 7:30 PM\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Saturday\n\nJune 27, 2026 | 2:00 PM\n\nPride Day\n\nBOOK NOW"
+      }
+    ],
+    "mainHtml": "<h1 class=\"MuiTypography-root MuiTypography-h1 custom-title css-1eycysl\">UNTITLED VAMPIRE PLAY</h1><div class=\"MuiBox-root css-1cjk39w\"><div class=\"MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root EventItem css-1podyqy\"><div class=\"MuiBox-root css-1vj66g7\"><div class=\"MuiBox-root css-641j5v\"><div class=\"MuiBox-root css-bw6r21\"><div class=\"MuiBox-root css-1rr4qq7\"><h2 class=\"MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld\" style=\"text-transform: capitalize;\">Thursday</h2><p class=\"MuiTypography-root MuiTypography-subtitle1 custom-body-text css-h11wt5\" style=\"text-transform: capitalize;\">June 04, 2026 | 7:30 PM</p></div><div class=\"custom-event-icons MuiBox-root css-6bz2b2\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 48 26\" data-testid=\"ReactIcon\" aria-label=\"Preview\" width=\"24\" height=\"24\" fill=\"none\"><path fill=\"currentColor\" d=\"M24 0C10.668 0 .25 12.344.25 12.344a.998.998 0 0 0 0 1.312S10.668 26 24 26s23.75-12.344 23.75-12.344a.998.998 0 0 0 0-1.312S37.332 0 24 0Zm0 2c2.629 0 5.14.543 7.469 1.375C33.03 5.141 34 7.449 34 10c0 5.535-4.465 10-10 10s-10-4.465-10-10c0-2.55.938-4.86 2.5-6.625C18.836 2.539 21.363 2 24 2ZM13.187 4.844A11.9 11.9 0 0 0 12 10c0 6.617 5.383 12 12 12s12-5.383 12-12c0-1.836-.418-3.594-1.156-5.156 5.648 2.87 9.71 7.035 10.75 8.156C43.969 14.758 34.973 24 24 24S4.031 14.758 2.406 13c1.04-1.125 5.121-5.285 10.781-8.156ZM24 5a5 5 0 1 0 0 10 5 5 0 0 0 0-10Z\"></path></svg></div><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 50 50\" data-testid=\"ReactIcon\" aria-label=\"Pay what you can\" width=\"24\" height=\"24\" fill=\"none\"><g clip-path=\"url(#a)\"><path fill=\"currentColor\" d=\"M32 5c-3 0-5.406 2.2-5.906 5 2 0 3.82.8 5.218 2v-1.688h-1.218l1.5-1.5h1.218v4.5H32.5c.7 1 1.2 2.176 1.5 3.376 2.398-.801 4.094-2.989 4.094-5.688C37.992 7.7 35.3 5 32 5Zm-6 6c-3.898 0-7 3.102-7 7s3.102 7 7 7 7-3.102 7-7-3.102-7-7-7Zm-.5 4.313h1.406v5.374h-1.812v-3.593h-1.407l1.813-1.782ZM13.406 25c-2.5 0-4.707.895-12.906 4.594-.5.199-.7.812-.5 1.312l5.312 11.782c.102.3.395.523.594.624.3.102.582-.023.781-.124l2.72-1.782c1.198-.8 1.679-.894 3.28-.093l2.125 1.093c2.5 1.301 5.875 3.094 6.875 3.594 1.602.8 2.899 1.094 4 1.094 2 0 3.301-.793 4.5-1.594 1.2-.8 15.825-10.29 17.125-11.188 1.602-1.101 2.594-2.406 2.594-3.406.102-2.8-2.601-3.5-5-2l-10.719 7.188C32.488 37.094 31 37 30 37h-6c-2.7 0-5.992-1-6.094-1-.3-.102-.414-.395-.312-.594.101-.3.293-.414.593-.312h.125c.301.101 3.602 1 6 1H30c.8 0 1.414-.2 1.812-.5.399-.301.676-.602.875-1 0-.102.125-.086.125-.188v-.093c.102-.301.094-.512.094-.813 0-1.2-1-2.398-3-2.5-1.601-.102-3.793-.5-5.594-1-1-.3-1.726-.613-2.125-.813-.3-.199-.601-.476-1-.875-1.199-1.3-2.98-3.312-7.78-3.312Zm21.688 0c-1.102 0-2.282.395-3.282 1.094-.699.398-3.699 2.304-5.5 3.406 1.301.3 2.688.5 3.688.5.7 0 1.406.207 1.906.406l6.5-4.406s-1.512-1-3.312-1Zm6.593 1.094c-1 0-2.175.398-3.875 1.5l-5 3.406c.801.7 1.188 1.602 1.188 2.5 0 .602-.195 1.305-.594 1.906l.094-.093.094-.126 11-7.28c-.301-1.302-1.907-1.813-2.907-1.813Z\"></path></g><defs><clipPath><path fill=\"#fff\" d=\"M0 0h50v50H0z\"></path></clipPath></defs></svg></div></div></div><div class=\"MuiBox-root css-0\"><p class=\"MuiTypography-root MuiTypography-body1 custom-body-text css-oife4x\">PWYC, Playwrights Night</p></div></div><div class=\"custom-event-footer MuiBox-root css-tirocy\"><a class=\"MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary custom-button css-1tyozck\" tabindex=\"0\" lang=\"en-US\" href=\"/ChooseSeats/56801\">Limited Availability<span class=\"MuiTouchRipple-root css-w0pj6f\"></span></a></div></div></div><div class=\"MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root EventItem css-1podyqy\"><div class=\"MuiBox-root css-1vj66g7\"><div class=\"MuiBox-root css-641j5v\"><div class=\"MuiBox-root css-bw6r21\"><div class=\"MuiBox-root css-1rr4qq7\"><h2 class=\"MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld\" style=\"text-transform: capitalize;\">Friday</h2><p class=\"MuiTypography-root MuiTypography-subtitle1 custom-body-text css-h11wt5\" style=\"text-transform: capitalize;\">June 05, 2026 | 7:30 PM</p></div><div class=\"custom-event-icons MuiBox-root css-6bz2b2\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 48 26\" data-testid=\"ReactIcon\" aria-label=\"Preview\" width=\"24\" height=\"24\" fill=\"none\"><path fill=\"currentColor\" d=\"M24 0C10.668 0 .25 12.344.25 12.344a.998.998 0 0 0 0 1.312S10.668 26 24 26s23.75-12.344 23.75-12.344a.998.998 0 0 0 0-1.312S37.332 0 24 0Zm0 2c2.629 0 5.14.543 7.469 1.375C33.03 5.141 34 7.449 34 10c0 5.535-4.465 10-10 10s-10-4.465-10-10c0-2.55.938-4.86 2.5-6.625C18.836 2.539 21.363 2 24 2ZM13.187 4.844A11.9 11.9 0 0 0 12 10c0 6.617 5.383 12 12 12s12-5.383 12-12c0-1.836-.418-3.594-1.156-5.156 5.648 2.87 9.71 7.035 10.75 8.156C43.969 14.758 34.973 24 24 24S4.031 14.758 2.406 13c1.04-1.125 5.121-5.285 10.781-8.156ZM24 5a5 5 0 1 0 0 10 5 5 0 0 0 0-10Z\"></path></svg></div></div></div></div><div class=\"custom-event-footer MuiBox-root css-tirocy\"><a class=\"MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary custom-button css-1tyozck\" tabindex=\"0\" lang=\"en-US\" href=\"/ChooseSeats/51203\">Book Now<span class=\"MuiTouchRipple-root css-w0pj6f\"></span></a></div></div></div><div class=\"MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root EventItem css-1podyqy\"><div class=\"MuiBox-root css-1vj66g7\"><div class=\"MuiBox-root css-641j5v\"><div class=\"MuiBox-root css-bw6r21\"><div class=\"MuiBox-root css-1rr4qq7\"><h2 class=\"MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld\" style=\"text-transform: capitalize;\">Saturday</h2><p class=\"MuiTypography-root MuiTypography-subtitle1 custom-body-text css-h11wt5\" style=\"text-transform: capitalize;\">June 06, 2026 | 7:30 PM</p></div><div class=\"custom-event-icons MuiBox-root css-6bz2b2\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 48 26\" data-testid=\"ReactIcon\" aria-label=\"Preview\" width=\"24\" height=\"24\" fill=\"none\"><path fill=\"currentColor\" d=\"M24 0C10.668 0 .25 12.344.25 12.344a.998.998 0 0 0 0 1.312S10.668 26 24 26s23.75-12.344 23.75-12.344a.998.998 0 0 0 0-1.312S37.332 0 24 0Zm0 2c2.629 0 5.14.543 7.469 1.375C33.03 5.141 34 7.449 34 10c0 5.535-4.465 10-10 10s-10-4.465-10-10c0-2.55.938-4.86 2.5-6.625C18.836 2.539 21.363 2 24 2ZM13.187 4.844A11.9 11.9 0 0 0 12 10c0 6.617 5.383 12 12 12s12-5.383 12-12c0-1.836-.418-3.594-1.156-5.156 5.648 2.87 9.71 7.035 10.75 8.156C43.969 14.758 34.973 24 24 24S4.031 14.758 2.406 13c1.04-1.125 5.121-5.285 10.781-8.156ZM24 5a5 5 0 1 0 0 10 5 5 0 0 0 0-10Z\"></path></svg></div></div></div></div><div class=\"custom-event-footer MuiBox-root css-tirocy\"><a class=\"MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary custom-button css-1tyozck\" tabindex=\"0\" lang=\"en-US\" href=\"/ChooseSeats/51204\">Book Now<span class=\"MuiTouchRipple-root css-w0pj6f\"></span></a></div></div></div><div class=\"MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root EventItem css-1podyqy\"><div class=\"MuiBox-root css-1vj66g7\"><div class=\"MuiBox-root css-641j5v\"><div class=\"MuiBox-root css-bw6r21\"><div class=\"MuiBox-root css-1rr4qq7\"><h2 class=\"MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld\" style=\"text-transform: capitalize;\">Sunday</h2><p class=\"MuiTypography-root MuiTypography-subtitle1 custom-body-text css-h11wt5\" style=\"text-transform: capitalize;\">June 07, 2026 | 2:00 PM</p></div><div class=\"custom-event-icons MuiBox-root css-6bz2b2\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 48 26\" data-testid=\"ReactIcon\" aria-label=\"Preview\" width=\"24\" height=\"24\" fill=\"none\"><path fill=\"currentColor\" d=\"M24 0C10.668 0 .25 12.344.25 12.344a.998.998 0 0 0 0 1.312S10.668 26 24 26s23.75-12.344 23.75-12.344a.998.998 0 0 0 0-1.312S37.332 0 24 0Zm0 2c2.629 0 5.14.543 7.469 1.375C33.03 5.141 34 7.449 34 10c0 5.535-4.465 10-10 10s-10-4.465-10-10c0-2.55.938-4.86 2.5-6.625C18.836 2.539 21.363 2 24 2ZM13.187 4.844A11.9 11.9 0 0 0 12 10c0 6.617 5.383 12 12 12s12-5.383 12-12c0-1.836-.418-3.594-1.156-5.156 5.648 2.87 9.71 7.035 10.75 8.156C43.969 14.758 34.973 24 24 24S4.031 14.758 2.406 13c1.04-1.125 5.121-5.285 10.781-8.156ZM24 5a5 5 0 1 0 0 10 5 5 0 0 0 0-10Z\"></path></svg></div><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 50 50\" data-testid=\"ReactIcon\" aria-label=\"Matinee\" width=\"24\" height=\"24\" fill=\"none\"><path fill=\"currentColor\" d=\"M24.906 3.969c-.043.008-.086.02-.125.031A1.002 1.002 0 0 0 24 5v6c-.004.36.184.695.496.879.313.18.695.18 1.008 0 .312-.184.5-.52.496-.879V5a1 1 0 0 0-1.094-1.031Zm-14.25 5.875a.994.994 0 0 0-.781.703c-.105.367.004.758.281 1.016l4.25 4.25c.242.296.63.433 1.004.347.371-.086.664-.379.75-.75a1.005 1.005 0 0 0-.348-1.004l-4.25-4.25a1.004 1.004 0 0 0-.812-.312h-.094Zm28.375 0a1.005 1.005 0 0 0-.593.312l-4.25 4.25a1.004 1.004 0 0 0-.348 1.004c.086.371.379.664.75.75.375.086.762-.05 1.004-.347l4.25-4.25a1 1 0 0 0-.813-1.719ZM24.906 15c-.031.008-.062.02-.093.031a1.046 1.046 0 0 0-.188.032l-.031.03C19.289 15.32 15 19.642 15 25c0 5.504 4.496 10 10 10s10-4.496 10-10c0-5.34-4.254-9.644-9.531-9.906-.035 0-.059-.031-.094-.031a.968.968 0 0 0-.313-.063h-.156Zm.032 2h.156A8.001 8.001 0 0 1 33 25c0 4.422-3.578 8-8 8-4.418 0-8-3.578-8-8a8 8 0 0 1 7.938-8Zm-20.22 7c-.55.078-.937.59-.859 1.14.079.552.59.938 1.141.86h6c.36.004.695-.183.879-.496a1.01 1.01 0 0 0 0-1.008c-.184-.312-.52-.5-.879-.496H4.719Zm34 0c-.55.078-.937.59-.859 1.14.078.552.59.938 1.141.86h6c.36.004.695-.183.879-.496a1.01 1.01 0 0 0 0-1.008c-.184-.312-.52-.5-.879-.496H38.719ZM15 33.875a1.006 1.006 0 0 0-.594.313l-4.25 4.25a1.004 1.004 0 0 0-.347 1.003c.086.372.379.665.75.75.375.087.761-.05 1.004-.347l4.25-4.25a1.002 1.002 0 0 0-.719-1.719H15Zm19.688 0a.993.993 0 0 0-.782.703c-.105.367.004.758.282 1.016l4.25 4.25c.242.297.628.434 1.003.347.371-.085.664-.378.75-.75a1.004 1.004 0 0 0-.347-1.003l-4.25-4.25a1 1 0 0 0-.719-.313h-.187Zm-9.782 4.094c-.043.008-.086.02-.125.031A1.002 1.002 0 0 0 24 39v6c-.004.36.184.695.496.879.313.18.695.18 1.008 0 .312-.184.5-.52.496-.879v-6a1 1 0 0 0-1.094-1.031Z\"></path></svg></div></div></div></div><div class=\"custom-event-footer MuiBox-root css-tirocy\"><a class=\"MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary custom-button css-1tyozck\" tabindex=\"0\" lang=\"en-US\" href=\"/ChooseSeats/50401\">Limited Availability<span class=\"MuiTouchRipple-root css-w0pj6f\"></span></a></div></div></div><div class=\"MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root EventItem css-1podyqy\"><div class=\"MuiBox-root css-1vj66g7\"><div class=\"MuiBox-root css-641j5v\"><div class=\"MuiBox-root css-bw6r2"
+  },
+  "13801": {
+    "title": "purchase.lookingglasstheatre.org",
+    "url": "https://purchase.lookingglasstheatre.org/EventAvailability?EventId=13801&ref=bookNow&scroll=timeAndDates",
+    "mainText": "LookingClass: Stage Combat 101\nWednesday\n\nJune 17, 2026 | 6:30 PM\n\nBOOK NOW\nSunday\n\nJuly 05, 2026 | 1:00 PM\n\nBOOK NOW\nSaturday\n\nJuly 11, 2026 | 1:00 PM\n\nBOOK NOW",
+    "headings": [
+      {
+        "tag": "H1",
+        "class": "MuiTypography-root MuiTypography-h1 custom-title css-1eycysl",
+        "text": "LookingClass: Stage Combat 101",
+        "styles": {
+          "fontSize": "35px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "32px 0px 0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Wednesday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Sunday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld",
+        "text": "Saturday",
+        "styles": {
+          "fontSize": "18.56px",
+          "fontWeight": "700",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "padding": "0px",
+          "margin": "0px"
+        }
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/58001"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/58201"
+      },
+      {
+        "text": "Book Now",
+        "class": "MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton",
+        "href": "https://purchase.lookingglasstheatre.org/ChooseSeats/58401"
+      }
+    ],
+    "tables": [],
+    "sections": [
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Wednesday\n\nJune 17, 2026 | 6:30 PM\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Sunday\n\nJuly 05, 2026 | 1:00 PM\n\nBOOK NOW"
+      },
+      {
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-ro",
+        "text": "Saturday\n\nJuly 11, 2026 | 1:00 PM\n\nBOOK NOW"
+      }
+    ],
+    "mainHtml": "<h1 class=\"MuiTypography-root MuiTypography-h1 custom-title css-1eycysl\">LookingClass: Stage Combat 101</h1><div class=\"MuiBox-root css-1cjk39w\"><div class=\"MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root EventItem css-1podyqy\"><div class=\"MuiBox-root css-1vj66g7\"><div class=\"MuiBox-root css-641j5v\"><div class=\"MuiBox-root css-bw6r21\"><div class=\"MuiBox-root css-1rr4qq7\"><h2 class=\"MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld\" style=\"text-transform: capitalize;\">Wednesday</h2><p class=\"MuiTypography-root MuiTypography-subtitle1 custom-body-text css-h11wt5\" style=\"text-transform: capitalize;\">June 17, 2026 | 6:30 PM</p></div><div class=\"custom-event-icons MuiBox-root css-6bz2b2\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 50 50\" data-testid=\"ReactIcon\" aria-label=\"Pay what you can\" width=\"24\" height=\"24\" fill=\"none\"><g clip-path=\"url(#a)\"><path fill=\"currentColor\" d=\"M32 5c-3 0-5.406 2.2-5.906 5 2 0 3.82.8 5.218 2v-1.688h-1.218l1.5-1.5h1.218v4.5H32.5c.7 1 1.2 2.176 1.5 3.376 2.398-.801 4.094-2.989 4.094-5.688C37.992 7.7 35.3 5 32 5Zm-6 6c-3.898 0-7 3.102-7 7s3.102 7 7 7 7-3.102 7-7-3.102-7-7-7Zm-.5 4.313h1.406v5.374h-1.812v-3.593h-1.407l1.813-1.782ZM13.406 25c-2.5 0-4.707.895-12.906 4.594-.5.199-.7.812-.5 1.312l5.312 11.782c.102.3.395.523.594.624.3.102.582-.023.781-.124l2.72-1.782c1.198-.8 1.679-.894 3.28-.093l2.125 1.093c2.5 1.301 5.875 3.094 6.875 3.594 1.602.8 2.899 1.094 4 1.094 2 0 3.301-.793 4.5-1.594 1.2-.8 15.825-10.29 17.125-11.188 1.602-1.101 2.594-2.406 2.594-3.406.102-2.8-2.601-3.5-5-2l-10.719 7.188C32.488 37.094 31 37 30 37h-6c-2.7 0-5.992-1-6.094-1-.3-.102-.414-.395-.312-.594.101-.3.293-.414.593-.312h.125c.301.101 3.602 1 6 1H30c.8 0 1.414-.2 1.812-.5.399-.301.676-.602.875-1 0-.102.125-.086.125-.188v-.093c.102-.301.094-.512.094-.813 0-1.2-1-2.398-3-2.5-1.601-.102-3.793-.5-5.594-1-1-.3-1.726-.613-2.125-.813-.3-.199-.601-.476-1-.875-1.199-1.3-2.98-3.312-7.78-3.312Zm21.688 0c-1.102 0-2.282.395-3.282 1.094-.699.398-3.699 2.304-5.5 3.406 1.301.3 2.688.5 3.688.5.7 0 1.406.207 1.906.406l6.5-4.406s-1.512-1-3.312-1Zm6.593 1.094c-1 0-2.175.398-3.875 1.5l-5 3.406c.801.7 1.188 1.602 1.188 2.5 0 .602-.195 1.305-.594 1.906l.094-.093.094-.126 11-7.28c-.301-1.302-1.907-1.813-2.907-1.813Z\"></path></g><defs><clipPath><path fill=\"#fff\" d=\"M0 0h50v50H0z\"></path></clipPath></defs></svg></div></div></div></div><div class=\"custom-event-footer MuiBox-root css-tirocy\"><a class=\"MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary custom-button css-1tyozck\" tabindex=\"0\" lang=\"en-US\" href=\"/ChooseSeats/58001\">Book Now<span class=\"MuiTouchRipple-root css-w0pj6f\"></span></a></div></div></div><div class=\"MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root EventItem css-1podyqy\"><div class=\"MuiBox-root css-1vj66g7\"><div class=\"MuiBox-root css-641j5v\"><div class=\"MuiBox-root css-bw6r21\"><div class=\"MuiBox-root css-1rr4qq7\"><h2 class=\"MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld\" style=\"text-transform: capitalize;\">Sunday</h2><p class=\"MuiTypography-root MuiTypography-subtitle1 custom-body-text css-h11wt5\" style=\"text-transform: capitalize;\">July 05, 2026 | 1:00 PM</p></div><div class=\"custom-event-icons MuiBox-root css-6bz2b2\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 50 50\" data-testid=\"ReactIcon\" aria-label=\"Pay what you can\" width=\"24\" height=\"24\" fill=\"none\"><g clip-path=\"url(#a)\"><path fill=\"currentColor\" d=\"M32 5c-3 0-5.406 2.2-5.906 5 2 0 3.82.8 5.218 2v-1.688h-1.218l1.5-1.5h1.218v4.5H32.5c.7 1 1.2 2.176 1.5 3.376 2.398-.801 4.094-2.989 4.094-5.688C37.992 7.7 35.3 5 32 5Zm-6 6c-3.898 0-7 3.102-7 7s3.102 7 7 7 7-3.102 7-7-3.102-7-7-7Zm-.5 4.313h1.406v5.374h-1.812v-3.593h-1.407l1.813-1.782ZM13.406 25c-2.5 0-4.707.895-12.906 4.594-.5.199-.7.812-.5 1.312l5.312 11.782c.102.3.395.523.594.624.3.102.582-.023.781-.124l2.72-1.782c1.198-.8 1.679-.894 3.28-.093l2.125 1.093c2.5 1.301 5.875 3.094 6.875 3.594 1.602.8 2.899 1.094 4 1.094 2 0 3.301-.793 4.5-1.594 1.2-.8 15.825-10.29 17.125-11.188 1.602-1.101 2.594-2.406 2.594-3.406.102-2.8-2.601-3.5-5-2l-10.719 7.188C32.488 37.094 31 37 30 37h-6c-2.7 0-5.992-1-6.094-1-.3-.102-.414-.395-.312-.594.101-.3.293-.414.593-.312h.125c.301.101 3.602 1 6 1H30c.8 0 1.414-.2 1.812-.5.399-.301.676-.602.875-1 0-.102.125-.086.125-.188v-.093c.102-.301.094-.512.094-.813 0-1.2-1-2.398-3-2.5-1.601-.102-3.793-.5-5.594-1-1-.3-1.726-.613-2.125-.813-.3-.199-.601-.476-1-.875-1.199-1.3-2.98-3.312-7.78-3.312Zm21.688 0c-1.102 0-2.282.395-3.282 1.094-.699.398-3.699 2.304-5.5 3.406 1.301.3 2.688.5 3.688.5.7 0 1.406.207 1.906.406l6.5-4.406s-1.512-1-3.312-1Zm6.593 1.094c-1 0-2.175.398-3.875 1.5l-5 3.406c.801.7 1.188 1.602 1.188 2.5 0 .602-.195 1.305-.594 1.906l.094-.093.094-.126 11-7.28c-.301-1.302-1.907-1.813-2.907-1.813Z\"></path></g><defs><clipPath><path fill=\"#fff\" d=\"M0 0h50v50H0z\"></path></clipPath></defs></svg></div></div></div></div><div class=\"custom-event-footer MuiBox-root css-tirocy\"><a class=\"MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary custom-button css-1tyozck\" tabindex=\"0\" lang=\"en-US\" href=\"/ChooseSeats/58201\">Book Now<span class=\"MuiTouchRipple-root css-w0pj6f\"></span></a></div></div></div><div class=\"MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root EventItem css-1podyqy\"><div class=\"MuiBox-root css-1vj66g7\"><div class=\"MuiBox-root css-641j5v\"><div class=\"MuiBox-root css-bw6r21\"><div class=\"MuiBox-root css-1rr4qq7\"><h2 class=\"MuiTypography-root MuiTypography-h2 event-item-title css-u5q7ld\" style=\"text-transform: capitalize;\">Saturday</h2><p class=\"MuiTypography-root MuiTypography-subtitle1 custom-body-text css-h11wt5\" style=\"text-transform: capitalize;\">July 11, 2026 | 1:00 PM</p></div><div class=\"custom-event-icons MuiBox-root css-6bz2b2\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 50 50\" data-testid=\"ReactIcon\" aria-label=\"Pay what you can\" width=\"24\" height=\"24\" fill=\"none\"><g clip-path=\"url(#a)\"><path fill=\"currentColor\" d=\"M32 5c-3 0-5.406 2.2-5.906 5 2 0 3.82.8 5.218 2v-1.688h-1.218l1.5-1.5h1.218v4.5H32.5c.7 1 1.2 2.176 1.5 3.376 2.398-.801 4.094-2.989 4.094-5.688C37.992 7.7 35.3 5 32 5Zm-6 6c-3.898 0-7 3.102-7 7s3.102 7 7 7 7-3.102 7-7-3.102-7-7-7Zm-.5 4.313h1.406v5.374h-1.812v-3.593h-1.407l1.813-1.782ZM13.406 25c-2.5 0-4.707.895-12.906 4.594-.5.199-.7.812-.5 1.312l5.312 11.782c.102.3.395.523.594.624.3.102.582-.023.781-.124l2.72-1.782c1.198-.8 1.679-.894 3.28-.093l2.125 1.093c2.5 1.301 5.875 3.094 6.875 3.594 1.602.8 2.899 1.094 4 1.094 2 0 3.301-.793 4.5-1.594 1.2-.8 15.825-10.29 17.125-11.188 1.602-1.101 2.594-2.406 2.594-3.406.102-2.8-2.601-3.5-5-2l-10.719 7.188C32.488 37.094 31 37 30 37h-6c-2.7 0-5.992-1-6.094-1-.3-.102-.414-.395-.312-.594.101-.3.293-.414.593-.312h.125c.301.101 3.602 1 6 1H30c.8 0 1.414-.2 1.812-.5.399-.301.676-.602.875-1 0-.102.125-.086.125-.188v-.093c.102-.301.094-.512.094-.813 0-1.2-1-2.398-3-2.5-1.601-.102-3.793-.5-5.594-1-1-.3-1.726-.613-2.125-.813-.3-.199-.601-.476-1-.875-1.199-1.3-2.98-3.312-7.78-3.312Zm21.688 0c-1.102 0-2.282.395-3.282 1.094-.699.398-3.699 2.304-5.5 3.406 1.301.3 2.688.5 3.688.5.7 0 1.406.207 1.906.406l6.5-4.406s-1.512-1-3.312-1Zm6.593 1.094c-1 0-2.175.398-3.875 1.5l-5 3.406c.801.7 1.188 1.602 1.188 2.5 0 .602-.195 1.305-.594 1.906l.094-.093.094-.126 11-7.28c-.301-1.302-1.907-1.813-2.907-1.813Z\"></path></g><defs><clipPath><path fill=\"#fff\" d=\"M0 0h50v50H0z\"></path></clipPath></defs></svg></div></div></div></div><div class=\"custom-event-footer MuiBox-root css-tirocy\"><a class=\"MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary custom-button css-1tyozck\" tabindex=\"0\" lang=\"en-US\" href=\"/ChooseSeats/58401\">Book Now<span class=\"MuiTouchRipple-root css-w0pj6f\"></span></a></div></div></div></div>"
+  }
+}

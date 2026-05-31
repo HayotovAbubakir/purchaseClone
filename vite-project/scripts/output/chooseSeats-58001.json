@@ -1,0 +1,7 @@
+{
+  "hasIframe": true,
+  "iframeSrc": "https://tickets.lookingglasstheatre.org/lookingglasstheatre/website/ChooseSeats.aspx?EventInstanceId=58001&culture=en-US&resize=true",
+  "mainText": "",
+  "mainHtml": "<iframe name=\"SpektrixIFrame\" id=\"SpektrixIFrame\" title=\"ChooseSeats\" src=\"https://tickets.lookingglasstheatre.org/lookingglasstheatre/website/ChooseSeats.aspx?EventInstanceId=58001&amp;culture=en-US&amp;resize=true\" referrerpolicy=\"strict-origin-when-cross-origin\" style=\"border: 0px; width: 100%; min-height: calc(-167px + 100dvh); overflow: hidden; height: 944px;\"></iframe>",
+  "inputs": []
+}

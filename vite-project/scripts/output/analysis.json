@@ -1,0 +1,663 @@
+{
+  "/Events": {
+    "title": "purchase.lookingglasstheatre.org",
+    "header": {
+      "tag": "HEADER",
+      "class": "MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed custom-navbar mui-fixed css-11700pd",
+      "text": "MY ACCOUNTLOGINCART:0$0.00",
+      "bg": "rgb(0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "\"PT Sans\"",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "height": "48px"
+    },
+    "allNavs": [
+      {
+        "tag": "HEADER",
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed custom-navbar mui-fixed css-11700pd",
+        "text": "MY ACCOUNTLOGINCART:0$0.00",
+        "bg": "rgb(0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "font": "\"PT Sans\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "padding": "0px",
+        "height": "48px"
+      },
+      {
+        "tag": "NAV",
+        "class": "MuiBox-root css-0",
+        "text": "",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font": "\"PT Sans\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "padding": "0px",
+        "height": "0px"
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to main content",
+        "href": "#main"
+      },
+      {
+        "text": "",
+        "href": "https://lookingglasstheatre.org/"
+      },
+      {
+        "text": "MY ACCOUNT",
+        "href": "/MyAccount"
+      },
+      {
+        "text": "LOGIN",
+        "href": "/LoginLogout"
+      },
+      {
+        "text": "CART:0$0.00",
+        "href": "/Basket"
+      },
+      {
+        "text": "EVENTS",
+        "href": "/Events"
+      },
+      {
+        "text": "GIFT CERTIFICATES",
+        "href": "/GiftVouchers"
+      },
+      {
+        "text": "MONTHLY GIVING",
+        "href": "/Memberships"
+      },
+      {
+        "text": "DONATE NOW",
+        "href": "/Donations?Attribute_SLExcludeFromDonationsPage=0"
+      },
+      {
+        "text": "COME AS YOU AREN'T BALL",
+        "href": "https://www.comeasyouarent.com/"
+      },
+      {
+        "text": "Book Now",
+        "href": "/EventAvailability?EventId=11801&ref=bookNow&scroll=timeAndDates"
+      },
+      {
+        "text": "Read more",
+        "href": "#"
+      },
+      {
+        "text": "Book Now",
+        "href": "/EventAvailability?EventId=13801&ref=bookNow&scroll=timeAndDates"
+      },
+      {
+        "text": "Read more",
+        "href": "#"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://purchase.lookingglasstheatre.org/privacy"
+      },
+      {
+        "text": "Terms & Conditions",
+        "href": "https://purchase.lookingglasstheatre.org/tandc"
+      },
+      {
+        "text": "Join Our Email List",
+        "href": "https://purchase.lookingglasstheatre.org/Signup"
+      },
+      {
+        "text": "EVENTS",
+        "href": "/Events"
+      },
+      {
+        "text": "GIFT CERTIFICATES",
+        "href": "/GiftVouchers"
+      },
+      {
+        "text": "MONTHLY GIVING",
+        "href": "/Memberships"
+      },
+      {
+        "text": "DONATE NOW",
+        "href": "/Donations?Attribute_SLExcludeFromDonationsPage=0"
+      },
+      {
+        "text": "COME AS YOU AREN'T BALL",
+        "href": "https://www.comeasyouarent.com/"
+      },
+      {
+        "text": "MY ACCOUNT",
+        "href": "/MyAccount"
+      },
+      {
+        "text": "LOGIN",
+        "href": "/LoginLogout"
+      }
+    ],
+    "buttons": [
+      ""
+    ],
+    "cardCount": 8,
+    "bodyBg": "rgb(255, 255, 255)",
+    "html": "<noscript>\n        <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PJC7XMW\"\n      height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>\n    </noscript>\n    <div id=\"root\"><a class=\"MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-9xzmu7\" href=\"#main\">Skip to main content</a><div class=\"MuiBox-root css-irwvew\"><div class=\"MuiBox-root css-70qvj9\"><header class=\"MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed custom-navbar mui-fixed css-11700pd\" id=\"navbarHeader\"><div class=\"MuiContainer-root MuiContainer-maxWidthXl css-1ekb41w\"><div class=\"MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-8xtxgb\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-edgeStart MuiIconButton-sizeMedium drawer-btn css-183wjgs\" tabindex=\"0\" type=\"button\" aria-label=\"open drawer\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"MenuIcon\"><path d=\"M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z\"></path></svg><span class=\"MuiTouchRipple-root css-w0pj6f\"></span></button><div class=\"MuiBox-root css-1ispjn1\"><a href=\"https://lookingglasstheatre.org/\"><img src=\"//app.spektrix-link.com/websites/purchase_lookingglasstheatre_org/logo-1771342918.069.png\" alt=\"Company Logo\" style=\"height: 32px; max-width: 100%;\"></a></div><div class=\"custom-topbar-links MuiBox-root css-jvvk0x\"><div class=\"MuiBox-root css-pcxrmn\"><spektrix-login-status client-name=\"lookingglasstheatre\" custom-domain=\"tickets.lookingglasstheatre.org\"><span data-logged-in-container=\"true\" style=\"display: none;\"><a href=\"/MyAccount\" style=\"color: inherit; text-decoration: none;\"><div class=\"MuiBox-root css-pcxrmn\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"ReactIcon\" aria-label=\"My Account\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-path=\"url(#clip0_440_22943)\"><path d=\"M12 12C14.21 12 16 10.21 16 8C16 5.79 14.21 4 12 4C9.79 4 8 5.79 8 8C8 10.21 9.79 12 12 12ZM12 14C9.33 14 4 15.34 4 18V20H20V18C20 15.34 14.67 14 12 14Z\" fill=\"currentColor\" fill-opacity=\"0.74\"></path></g><defs><clipPath><rect width=\"24\" height=\"24\" fill=\"currentColor\"></rect></clipPath></defs></svg></div>MY ACCOUNT</div></a></span><span data-logged-out-container=\"true\" style=\"display: block;\"><a href=\"/LoginLogout\" style=\"color: inherit; text-decoration: none;\"><div class=\"MuiBox-root css-pcxrmn\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"ReactIcon\" aria-label=\"Login\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 7L9.6 8.4L12.2 11H2V13H12.2L9.6 15.6L11 17L16 12L11 7ZM20"
+  },
+  "/GiftVouchers": {
+    "title": "purchase.lookingglasstheatre.org",
+    "header": {
+      "tag": "HEADER",
+      "class": "MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed custom-navbar mui-fixed css-11700pd",
+      "text": "MY ACCOUNTLOGINCART:0$0.00",
+      "bg": "rgb(0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "\"PT Sans\"",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "height": "48px"
+    },
+    "allNavs": [
+      {
+        "tag": "HEADER",
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed custom-navbar mui-fixed css-11700pd",
+        "text": "MY ACCOUNTLOGINCART:0$0.00",
+        "bg": "rgb(0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "font": "\"PT Sans\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "padding": "0px",
+        "height": "48px"
+      },
+      {
+        "tag": "NAV",
+        "class": "MuiBox-root css-0",
+        "text": "",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font": "\"PT Sans\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "padding": "0px",
+        "height": "0px"
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to main content",
+        "href": "#main"
+      },
+      {
+        "text": "",
+        "href": "https://lookingglasstheatre.org/"
+      },
+      {
+        "text": "MY ACCOUNT",
+        "href": "/MyAccount"
+      },
+      {
+        "text": "LOGIN",
+        "href": "/LoginLogout"
+      },
+      {
+        "text": "CART:0$0.00",
+        "href": "/Basket"
+      },
+      {
+        "text": "EVENTS",
+        "href": "/Events"
+      },
+      {
+        "text": "GIFT CERTIFICATES",
+        "href": "/GiftVouchers"
+      },
+      {
+        "text": "MONTHLY GIVING",
+        "href": "/Memberships"
+      },
+      {
+        "text": "DONATE NOW",
+        "href": "/Donations?Attribute_SLExcludeFromDonationsPage=0"
+      },
+      {
+        "text": "COME AS YOU AREN'T BALL",
+        "href": "https://www.comeasyouarent.com/"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://purchase.lookingglasstheatre.org/privacy"
+      },
+      {
+        "text": "Terms & Conditions",
+        "href": "https://purchase.lookingglasstheatre.org/tandc"
+      },
+      {
+        "text": "Join Our Email List",
+        "href": "https://purchase.lookingglasstheatre.org/Signup"
+      },
+      {
+        "text": "EVENTS",
+        "href": "/Events"
+      },
+      {
+        "text": "GIFT CERTIFICATES",
+        "href": "/GiftVouchers"
+      },
+      {
+        "text": "MONTHLY GIVING",
+        "href": "/Memberships"
+      },
+      {
+        "text": "DONATE NOW",
+        "href": "/Donations?Attribute_SLExcludeFromDonationsPage=0"
+      },
+      {
+        "text": "COME AS YOU AREN'T BALL",
+        "href": "https://www.comeasyouarent.com/"
+      },
+      {
+        "text": "MY ACCOUNT",
+        "href": "/MyAccount"
+      },
+      {
+        "text": "LOGIN",
+        "href": "/LoginLogout"
+      }
+    ],
+    "buttons": [
+      ""
+    ],
+    "cardCount": 0,
+    "bodyBg": "rgb(255, 255, 255)",
+    "html": "<noscript>\n        <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PJC7XMW\"\n      height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>\n    </noscript>\n    <div id=\"root\"><a class=\"MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-9xzmu7\" href=\"#main\">Skip to main content</a><div class=\"MuiBox-root css-irwvew\"><div class=\"MuiBox-root css-70qvj9\"><header class=\"MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed custom-navbar mui-fixed css-11700pd\" id=\"navbarHeader\"><div class=\"MuiContainer-root MuiContainer-maxWidthXl css-1ekb41w\"><div class=\"MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-8xtxgb\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-edgeStart MuiIconButton-sizeMedium drawer-btn css-183wjgs\" tabindex=\"0\" type=\"button\" aria-label=\"open drawer\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"MenuIcon\"><path d=\"M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z\"></path></svg><span class=\"MuiTouchRipple-root css-w0pj6f\"></span></button><div class=\"MuiBox-root css-1ispjn1\"><a href=\"https://lookingglasstheatre.org/\"><img src=\"//app.spektrix-link.com/websites/purchase_lookingglasstheatre_org/logo-1771342918.069.png\" alt=\"Company Logo\" style=\"height: 32px; max-width: 100%;\"></a></div><div class=\"custom-topbar-links MuiBox-root css-jvvk0x\"><div class=\"MuiBox-root css-pcxrmn\"><spektrix-login-status client-name=\"lookingglasstheatre\" custom-domain=\"tickets.lookingglasstheatre.org\"><span data-logged-in-container=\"true\" style=\"display: none;\"><a href=\"/MyAccount\" style=\"color: inherit; text-decoration: none;\"><div class=\"MuiBox-root css-pcxrmn\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"ReactIcon\" aria-label=\"My Account\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-path=\"url(#clip0_440_22943)\"><path d=\"M12 12C14.21 12 16 10.21 16 8C16 5.79 14.21 4 12 4C9.79 4 8 5.79 8 8C8 10.21 9.79 12 12 12ZM12 14C9.33 14 4 15.34 4 18V20H20V18C20 15.34 14.67 14 12 14Z\" fill=\"currentColor\" fill-opacity=\"0.74\"></path></g><defs><clipPath><rect width=\"24\" height=\"24\" fill=\"currentColor\"></rect></clipPath></defs></svg></div>MY ACCOUNT</div></a></span><span data-logged-out-container=\"true\" style=\"display: block;\"><a href=\"/LoginLogout\" style=\"color: inherit; text-decoration: none;\"><div class=\"MuiBox-root css-pcxrmn\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"ReactIcon\" aria-label=\"Login\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 7L9.6 8.4L12.2 11H2V13H12.2L9.6 15.6L11 17L16 12L11 7ZM20"
+  },
+  "/Donations": {
+    "title": "purchase.lookingglasstheatre.org",
+    "header": {
+      "tag": "HEADER",
+      "class": "MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed custom-navbar mui-fixed css-11700pd",
+      "text": "MY ACCOUNTLOGINCART:0$0.00",
+      "bg": "rgb(0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "\"PT Sans\"",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "height": "48px"
+    },
+    "allNavs": [
+      {
+        "tag": "HEADER",
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed custom-navbar mui-fixed css-11700pd",
+        "text": "MY ACCOUNTLOGINCART:0$0.00",
+        "bg": "rgb(0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "font": "\"PT Sans\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "padding": "0px",
+        "height": "48px"
+      },
+      {
+        "tag": "NAV",
+        "class": "MuiBox-root css-0",
+        "text": "",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font": "\"PT Sans\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "padding": "0px",
+        "height": "0px"
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to main content",
+        "href": "#main"
+      },
+      {
+        "text": "",
+        "href": "https://lookingglasstheatre.org/"
+      },
+      {
+        "text": "MY ACCOUNT",
+        "href": "/MyAccount"
+      },
+      {
+        "text": "LOGIN",
+        "href": "/LoginLogout"
+      },
+      {
+        "text": "CART:0$0.00",
+        "href": "/Basket"
+      },
+      {
+        "text": "EVENTS",
+        "href": "/Events"
+      },
+      {
+        "text": "GIFT CERTIFICATES",
+        "href": "/GiftVouchers"
+      },
+      {
+        "text": "MONTHLY GIVING",
+        "href": "/Memberships"
+      },
+      {
+        "text": "DONATE NOW",
+        "href": "/Donations?Attribute_SLExcludeFromDonationsPage=0"
+      },
+      {
+        "text": "COME AS YOU AREN'T BALL",
+        "href": "https://www.comeasyouarent.com/"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://purchase.lookingglasstheatre.org/privacy"
+      },
+      {
+        "text": "Terms & Conditions",
+        "href": "https://purchase.lookingglasstheatre.org/tandc"
+      },
+      {
+        "text": "Join Our Email List",
+        "href": "https://purchase.lookingglasstheatre.org/Signup"
+      },
+      {
+        "text": "EVENTS",
+        "href": "/Events"
+      },
+      {
+        "text": "GIFT CERTIFICATES",
+        "href": "/GiftVouchers"
+      },
+      {
+        "text": "MONTHLY GIVING",
+        "href": "/Memberships"
+      },
+      {
+        "text": "DONATE NOW",
+        "href": "/Donations?Attribute_SLExcludeFromDonationsPage=0"
+      },
+      {
+        "text": "COME AS YOU AREN'T BALL",
+        "href": "https://www.comeasyouarent.com/"
+      },
+      {
+        "text": "MY ACCOUNT",
+        "href": "/MyAccount"
+      },
+      {
+        "text": "LOGIN",
+        "href": "/LoginLogout"
+      }
+    ],
+    "buttons": [
+      ""
+    ],
+    "cardCount": 0,
+    "bodyBg": "rgb(255, 255, 255)",
+    "html": "<noscript>\n        <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PJC7XMW\"\n      height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>\n    </noscript>\n    <div id=\"root\"><a class=\"MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-9xzmu7\" href=\"#main\">Skip to main content</a><div class=\"MuiBox-root css-irwvew\"><div class=\"MuiBox-root css-70qvj9\"><header class=\"MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed custom-navbar mui-fixed css-11700pd\" id=\"navbarHeader\"><div class=\"MuiContainer-root MuiContainer-maxWidthXl css-1ekb41w\"><div class=\"MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-8xtxgb\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-edgeStart MuiIconButton-sizeMedium drawer-btn css-183wjgs\" tabindex=\"0\" type=\"button\" aria-label=\"open drawer\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"MenuIcon\"><path d=\"M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z\"></path></svg><span class=\"MuiTouchRipple-root css-w0pj6f\"></span></button><div class=\"MuiBox-root css-1ispjn1\"><a href=\"https://lookingglasstheatre.org/\"><img src=\"//app.spektrix-link.com/websites/purchase_lookingglasstheatre_org/logo-1771342918.069.png\" alt=\"Company Logo\" style=\"height: 32px; max-width: 100%;\"></a></div><div class=\"custom-topbar-links MuiBox-root css-jvvk0x\"><div class=\"MuiBox-root css-pcxrmn\"><spektrix-login-status client-name=\"lookingglasstheatre\" custom-domain=\"tickets.lookingglasstheatre.org\"><span data-logged-in-container=\"true\" style=\"display: none;\"><a href=\"/MyAccount\" style=\"color: inherit; text-decoration: none;\"><div class=\"MuiBox-root css-pcxrmn\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"ReactIcon\" aria-label=\"My Account\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-path=\"url(#clip0_440_22943)\"><path d=\"M12 12C14.21 12 16 10.21 16 8C16 5.79 14.21 4 12 4C9.79 4 8 5.79 8 8C8 10.21 9.79 12 12 12ZM12 14C9.33 14 4 15.34 4 18V20H20V18C20 15.34 14.67 14 12 14Z\" fill=\"currentColor\" fill-opacity=\"0.74\"></path></g><defs><clipPath><rect width=\"24\" height=\"24\" fill=\"currentColor\"></rect></clipPath></defs></svg></div>MY ACCOUNT</div></a></span><span data-logged-out-container=\"true\" style=\"display: block;\"><a href=\"/LoginLogout\" style=\"color: inherit; text-decoration: none;\"><div class=\"MuiBox-root css-pcxrmn\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"ReactIcon\" aria-label=\"Login\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 7L9.6 8.4L12.2 11H2V13H12.2L9.6 15.6L11 17L16 12L11 7ZM20"
+  },
+  "/Basket": {
+    "title": "purchase.lookingglasstheatre.org",
+    "header": {
+      "tag": "HEADER",
+      "class": "MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed custom-navbar mui-fixed css-11700pd",
+      "text": "MY ACCOUNTLOGINCART:0$0.00",
+      "bg": "rgb(0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "\"PT Sans\"",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "height": "48px"
+    },
+    "allNavs": [
+      {
+        "tag": "HEADER",
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed custom-navbar mui-fixed css-11700pd",
+        "text": "MY ACCOUNTLOGINCART:0$0.00",
+        "bg": "rgb(0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "font": "\"PT Sans\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "padding": "0px",
+        "height": "48px"
+      },
+      {
+        "tag": "NAV",
+        "class": "MuiBox-root css-0",
+        "text": "",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font": "\"PT Sans\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "padding": "0px",
+        "height": "0px"
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to main content",
+        "href": "#main"
+      },
+      {
+        "text": "",
+        "href": "https://lookingglasstheatre.org/"
+      },
+      {
+        "text": "MY ACCOUNT",
+        "href": "/MyAccount"
+      },
+      {
+        "text": "LOGIN",
+        "href": "/LoginLogout"
+      },
+      {
+        "text": "CART:0$0.00",
+        "href": "/Basket"
+      },
+      {
+        "text": "EVENTS",
+        "href": "/Events"
+      },
+      {
+        "text": "GIFT CERTIFICATES",
+        "href": "/GiftVouchers"
+      },
+      {
+        "text": "MONTHLY GIVING",
+        "href": "/Memberships"
+      },
+      {
+        "text": "DONATE NOW",
+        "href": "/Donations?Attribute_SLExcludeFromDonationsPage=0"
+      },
+      {
+        "text": "COME AS YOU AREN'T BALL",
+        "href": "https://www.comeasyouarent.com/"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://purchase.lookingglasstheatre.org/privacy"
+      },
+      {
+        "text": "Terms & Conditions",
+        "href": "https://purchase.lookingglasstheatre.org/tandc"
+      },
+      {
+        "text": "Join Our Email List",
+        "href": "https://purchase.lookingglasstheatre.org/Signup"
+      },
+      {
+        "text": "EVENTS",
+        "href": "/Events"
+      },
+      {
+        "text": "GIFT CERTIFICATES",
+        "href": "/GiftVouchers"
+      },
+      {
+        "text": "MONTHLY GIVING",
+        "href": "/Memberships"
+      },
+      {
+        "text": "DONATE NOW",
+        "href": "/Donations?Attribute_SLExcludeFromDonationsPage=0"
+      },
+      {
+        "text": "COME AS YOU AREN'T BALL",
+        "href": "https://www.comeasyouarent.com/"
+      },
+      {
+        "text": "MY ACCOUNT",
+        "href": "/MyAccount"
+      },
+      {
+        "text": "LOGIN",
+        "href": "/LoginLogout"
+      }
+    ],
+    "buttons": [
+      ""
+    ],
+    "cardCount": 0,
+    "bodyBg": "rgb(255, 255, 255)",
+    "html": "<noscript>\n        <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PJC7XMW\"\n      height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>\n    </noscript>\n    <div id=\"root\"><a class=\"MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-9xzmu7\" href=\"#main\">Skip to main content</a><div class=\"MuiBox-root css-irwvew\"><div class=\"MuiBox-root css-70qvj9\"><header class=\"MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed custom-navbar mui-fixed css-11700pd\" id=\"navbarHeader\"><div class=\"MuiContainer-root MuiContainer-maxWidthXl css-1ekb41w\"><div class=\"MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-8xtxgb\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-edgeStart MuiIconButton-sizeMedium drawer-btn css-183wjgs\" tabindex=\"0\" type=\"button\" aria-label=\"open drawer\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"MenuIcon\"><path d=\"M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z\"></path></svg><span class=\"MuiTouchRipple-root css-w0pj6f\"></span></button><div class=\"MuiBox-root css-1ispjn1\"><a href=\"https://lookingglasstheatre.org/\"><img src=\"//app.spektrix-link.com/websites/purchase_lookingglasstheatre_org/logo-1771342918.069.png\" alt=\"Company Logo\" style=\"height: 32px; max-width: 100%;\"></a></div><div class=\"custom-topbar-links MuiBox-root css-jvvk0x\"><div class=\"MuiBox-root css-pcxrmn\"><spektrix-login-status client-name=\"lookingglasstheatre\" custom-domain=\"tickets.lookingglasstheatre.org\"><span data-logged-in-container=\"true\" style=\"display: none;\"><a href=\"/MyAccount\" style=\"color: inherit; text-decoration: none;\"><div class=\"MuiBox-root css-pcxrmn\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"ReactIcon\" aria-label=\"My Account\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-path=\"url(#clip0_440_22943)\"><path d=\"M12 12C14.21 12 16 10.21 16 8C16 5.79 14.21 4 12 4C9.79 4 8 5.79 8 8C8 10.21 9.79 12 12 12ZM12 14C9.33 14 4 15.34 4 18V20H20V18C20 15.34 14.67 14 12 14Z\" fill=\"currentColor\" fill-opacity=\"0.74\"></path></g><defs><clipPath><rect width=\"24\" height=\"24\" fill=\"currentColor\"></rect></clipPath></defs></svg></div>MY ACCOUNT</div></a></span><span data-logged-out-container=\"true\" style=\"display: block;\"><a href=\"/LoginLogout\" style=\"color: inherit; text-decoration: none;\"><div class=\"MuiBox-root css-pcxrmn\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"ReactIcon\" aria-label=\"Login\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 7L9.6 8.4L12.2 11H2V13H12.2L9.6 15.6L11 17L16 12L11 7ZM20"
+  },
+  "/LoginLogout": {
+    "title": "purchase.lookingglasstheatre.org",
+    "header": {
+      "tag": "HEADER",
+      "class": "MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed custom-navbar mui-fixed css-11700pd",
+      "text": "MY ACCOUNTLOGINCART:0$0.00",
+      "bg": "rgb(0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "\"PT Sans\"",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "padding": "0px",
+      "height": "48px"
+    },
+    "allNavs": [
+      {
+        "tag": "HEADER",
+        "class": "MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed custom-navbar mui-fixed css-11700pd",
+        "text": "MY ACCOUNTLOGINCART:0$0.00",
+        "bg": "rgb(0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "font": "\"PT Sans\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "padding": "0px",
+        "height": "48px"
+      },
+      {
+        "tag": "NAV",
+        "class": "MuiBox-root css-0",
+        "text": "",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(0, 0, 0)",
+        "font": "\"PT Sans\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "padding": "0px",
+        "height": "0px"
+      }
+    ],
+    "links": [
+      {
+        "text": "Skip to main content",
+        "href": "#main"
+      },
+      {
+        "text": "",
+        "href": "https://lookingglasstheatre.org/"
+      },
+      {
+        "text": "MY ACCOUNT",
+        "href": "/MyAccount"
+      },
+      {
+        "text": "LOGIN",
+        "href": "/LoginLogout"
+      },
+      {
+        "text": "CART:0$0.00",
+        "href": "/Basket"
+      },
+      {
+        "text": "EVENTS",
+        "href": "/Events"
+      },
+      {
+        "text": "GIFT CERTIFICATES",
+        "href": "/GiftVouchers"
+      },
+      {
+        "text": "MONTHLY GIVING",
+        "href": "/Memberships"
+      },
+      {
+        "text": "DONATE NOW",
+        "href": "/Donations?Attribute_SLExcludeFromDonationsPage=0"
+      },
+      {
+        "text": "COME AS YOU AREN'T BALL",
+        "href": "https://www.comeasyouarent.com/"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://purchase.lookingglasstheatre.org/privacy"
+      },
+      {
+        "text": "Terms & Conditions",
+        "href": "https://purchase.lookingglasstheatre.org/tandc"
+      },
+      {
+        "text": "Join Our Email List",
+        "href": "https://purchase.lookingglasstheatre.org/Signup"
+      },
+      {
+        "text": "EVENTS",
+        "href": "/Events"
+      },
+      {
+        "text": "GIFT CERTIFICATES",
+        "href": "/GiftVouchers"
+      },
+      {
+        "text": "MONTHLY GIVING",
+        "href": "/Memberships"
+      },
+      {
+        "text": "DONATE NOW",
+        "href": "/Donations?Attribute_SLExcludeFromDonationsPage=0"
+      },
+      {
+        "text": "COME AS YOU AREN'T BALL",
+        "href": "https://www.comeasyouarent.com/"
+      },
+      {
+        "text": "MY ACCOUNT",
+        "href": "/MyAccount"
+      },
+      {
+        "text": "LOGIN",
+        "href": "/LoginLogout"
+      }
+    ],
+    "buttons": [
+      ""
+    ],
+    "cardCount": 0,
+    "bodyBg": "rgb(255, 255, 255)",
+    "html": "<noscript>\n        <iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PJC7XMW\"\n      height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>\n    </noscript>\n    <div id=\"root\"><a class=\"MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineHover css-9xzmu7\" href=\"#main\">Skip to main content</a><div class=\"MuiBox-root css-irwvew\"><div class=\"MuiBox-root css-70qvj9\"><header class=\"MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed custom-navbar mui-fixed css-11700pd\" id=\"navbarHeader\"><div class=\"MuiContainer-root MuiContainer-maxWidthXl css-1ekb41w\"><div class=\"MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-8xtxgb\"><button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit MuiIconButton-edgeStart MuiIconButton-sizeMedium drawer-btn css-183wjgs\" tabindex=\"0\" type=\"button\" aria-label=\"open drawer\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-vubbuv\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"MenuIcon\"><path d=\"M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z\"></path></svg><span class=\"MuiTouchRipple-root css-w0pj6f\"></span></button><div class=\"MuiBox-root css-1ispjn1\"><a href=\"https://lookingglasstheatre.org/\"><img src=\"//app.spektrix-link.com/websites/purchase_lookingglasstheatre_org/logo-1771342918.069.png\" alt=\"Company Logo\" style=\"height: 32px; max-width: 100%;\"></a></div><div class=\"custom-topbar-links MuiBox-root css-jvvk0x\"><div class=\"MuiBox-root css-pcxrmn\"><spektrix-login-status client-name=\"lookingglasstheatre\" custom-domain=\"tickets.lookingglasstheatre.org\"><span data-logged-in-container=\"true\" style=\"display: none;\"><a href=\"/MyAccount\" style=\"color: inherit; text-decoration: none;\"><div class=\"MuiBox-root css-pcxrmn\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"ReactIcon\" aria-label=\"My Account\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-path=\"url(#clip0_440_22943)\"><path d=\"M12 12C14.21 12 16 10.21 16 8C16 5.79 14.21 4 12 4C9.79 4 8 5.79 8 8C8 10.21 9.79 12 12 12ZM12 14C9.33 14 4 15.34 4 18V20H20V18C20 15.34 14.67 14 12 14Z\" fill=\"currentColor\" fill-opacity=\"0.74\"></path></g><defs><clipPath><rect width=\"24\" height=\"24\" fill=\"currentColor\"></rect></clipPath></defs></svg></div>MY ACCOUNT</div></a></span><span data-logged-out-container=\"true\" style=\"display: block;\"><a href=\"/LoginLogout\" style=\"color: inherit; text-decoration: none;\"><div class=\"MuiBox-root css-pcxrmn\"><div class=\"MuiBox-root css-12z0wuy\"><svg class=\"MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-b933ss\" focusable=\"false\" aria-hidden=\"true\" viewBox=\"0 0 24 24\" data-testid=\"ReactIcon\" aria-label=\"Login\" width=\"24\" height=\"24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11 7L9.6 8.4L12.2 11H2V13H12.2L9.6 15.6L11 17L16 12L11 7ZM20"
+  }
+}

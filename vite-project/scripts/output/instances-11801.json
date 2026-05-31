@@ -1,0 +1,334 @@
+[
+  {
+    "day": "Thursday",
+    "datetime": "June 04, 2026 | 7:30 PM",
+    "note": "PWYC, Playwrights Night",
+    "href": "/ChooseSeats/56801",
+    "button": "Limited Availability",
+    "icons": [
+      "Preview",
+      "Pay what you can"
+    ]
+  },
+  {
+    "day": "Friday",
+    "datetime": "June 05, 2026 | 7:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/51203",
+    "button": "Book Now",
+    "icons": [
+      "Preview"
+    ]
+  },
+  {
+    "day": "Saturday",
+    "datetime": "June 06, 2026 | 7:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/51204",
+    "button": "Book Now",
+    "icons": [
+      "Preview"
+    ]
+  },
+  {
+    "day": "Sunday",
+    "datetime": "June 07, 2026 | 2:00 PM",
+    "note": "",
+    "href": "/ChooseSeats/50401",
+    "button": "Limited Availability",
+    "icons": [
+      "Preview",
+      "Matinee"
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "datetime": "June 10, 2026 | 7:30 PM",
+    "note": "PWYC, University Night, Performance will be filmed",
+    "href": "/ChooseSeats/57001",
+    "button": "Limited Availability",
+    "icons": [
+      "Preview",
+      "Pay what you can"
+    ]
+  },
+  {
+    "day": "Thursday",
+    "datetime": "June 11, 2026 | 7:30 PM",
+    "note": "How Does Cirque Work?",
+    "href": "/ChooseSeats/50802",
+    "button": "Book Now",
+    "icons": [
+      "Preview"
+    ]
+  },
+  {
+    "day": "Friday",
+    "datetime": "June 12, 2026 | 7:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/51207",
+    "button": "Limited Availability",
+    "icons": [
+      "Preview"
+    ]
+  },
+  {
+    "day": "Sunday",
+    "datetime": "June 14, 2026 | 2:00 PM",
+    "note": "",
+    "href": "/ChooseSeats/50402",
+    "button": "Book Now",
+    "icons": [
+      "Matinee"
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "datetime": "June 16, 2026 | 7:30 PM",
+    "note": "Vampire Night",
+    "href": "/ChooseSeats/50815",
+    "button": "Book Now",
+    "icons": []
+  },
+  {
+    "day": "Wednesday",
+    "datetime": "June 17, 2026 | 7:30 PM",
+    "note": "Stage Combat Night",
+    "href": "/ChooseSeats/50803",
+    "button": "Book Now",
+    "icons": []
+  },
+  {
+    "day": "Thursday",
+    "datetime": "June 18, 2026 | 2:00 PM",
+    "note": "",
+    "href": "/ChooseSeats/50409",
+    "button": "Book Now",
+    "icons": [
+      "Matinee"
+    ]
+  },
+  {
+    "day": "Thursday",
+    "datetime": "June 18, 2026 | 7:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/50804",
+    "button": "Book Now",
+    "icons": []
+  },
+  {
+    "day": "Saturday",
+    "datetime": "June 20, 2026 | 2:00 PM",
+    "note": "This Performance will be filmed.",
+    "href": "/ChooseSeats/50601",
+    "button": "Book Now",
+    "icons": [
+      "Matinee"
+    ]
+  },
+  {
+    "day": "Saturday",
+    "datetime": "June 20, 2026 | 7:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/51001",
+    "button": "Book Now",
+    "icons": []
+  },
+  {
+    "day": "Sunday",
+    "datetime": "June 21, 2026 | 2:00 PM",
+    "note": "",
+    "href": "/ChooseSeats/50403",
+    "button": "Book Now",
+    "icons": [
+      "Matinee"
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "datetime": "June 24, 2026 | 7:30 PM",
+    "note": "This Performance is mask required.",
+    "href": "/ChooseSeats/50805",
+    "button": "Book Now",
+    "icons": []
+  },
+  {
+    "day": "Thursday",
+    "datetime": "June 25, 2026 | 2:00 PM",
+    "note": "",
+    "href": "/ChooseSeats/50410",
+    "button": "Book Now",
+    "icons": [
+      "Matinee"
+    ]
+  },
+  {
+    "day": "Thursday",
+    "datetime": "June 25, 2026 | 7:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/50806",
+    "button": "Book Now",
+    "icons": []
+  },
+  {
+    "day": "Friday",
+    "datetime": "June 26, 2026 | 7:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/51002",
+    "button": "Book Now",
+    "icons": []
+  },
+  {
+    "day": "Saturday",
+    "datetime": "June 27, 2026 | 2:00 PM",
+    "note": "Pride Day",
+    "href": "/ChooseSeats/50602",
+    "button": "Book Now",
+    "icons": [
+      "Matinee"
+    ]
+  },
+  {
+    "day": "Saturday",
+    "datetime": "June 27, 2026 | 7:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/51003",
+    "button": "Book Now",
+    "icons": []
+  },
+  {
+    "day": "Sunday",
+    "datetime": "June 28, 2026 | 2:00 PM",
+    "note": "",
+    "href": "/ChooseSeats/50404",
+    "button": "Book Now",
+    "icons": [
+      "Matinee"
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "datetime": "June 30, 2026 | 7:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/51201",
+    "button": "Book Now",
+    "icons": []
+  },
+  {
+    "day": "Wednesday",
+    "datetime": "July 01, 2026 | 7:30 PM",
+    "note": "Open Captioned Performance",
+    "href": "/ChooseSeats/50807",
+    "button": "Book Now",
+    "icons": [
+      "Captioned"
+    ]
+  },
+  {
+    "day": "Thursday",
+    "datetime": "July 02, 2026 | 2:00 PM",
+    "note": "",
+    "href": "/ChooseSeats/50411",
+    "button": "Book Now",
+    "icons": [
+      "Matinee"
+    ]
+  },
+  {
+    "day": "Thursday",
+    "datetime": "July 02, 2026 | 7:30 PM",
+    "note": "Touch Tour at 6:30PM, Audio Description at 7:30PM",
+    "href": "/ChooseSeats/50808",
+    "button": "Book Now",
+    "icons": [
+      "Audio Described",
+      "Touch Tour"
+    ]
+  },
+  {
+    "day": "Friday",
+    "datetime": "July 03, 2026 | 7:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/51004",
+    "button": "Book Now",
+    "icons": []
+  },
+  {
+    "day": "Sunday",
+    "datetime": "July 05, 2026 | 2:00 PM",
+    "note": "",
+    "href": "/ChooseSeats/50405",
+    "button": "Book Now",
+    "icons": [
+      "Matinee"
+    ]
+  },
+  {
+    "day": "Sunday",
+    "datetime": "July 05, 2026 | 7:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/51601",
+    "button": "Book Now",
+    "icons": []
+  },
+  {
+    "day": "Tuesday",
+    "datetime": "July 07, 2026 | 7:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/57201",
+    "button": "Book Now",
+    "icons": []
+  },
+  {
+    "day": "Wednesday",
+    "datetime": "July 08, 2026 | 7:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/50809",
+    "button": "Book Now",
+    "icons": []
+  },
+  {
+    "day": "Thursday",
+    "datetime": "July 09, 2026 | 7:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/50810",
+    "button": "Book Now",
+    "icons": []
+  },
+  {
+    "day": "Friday",
+    "datetime": "July 10, 2026 | 7:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/51006",
+    "button": "Book Now",
+    "icons": []
+  },
+  {
+    "day": "Saturday",
+    "datetime": "July 11, 2026 | 2:00 PM",
+    "note": "",
+    "href": "/ChooseSeats/50604",
+    "button": "Book Now",
+    "icons": [
+      "Matinee"
+    ]
+  },
+  {
+    "day": "Saturday",
+    "datetime": "July 11, 2026 | 7:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/51007",
+    "button": "Book Now",
+    "icons": []
+  },
+  {
+    "day": "Sunday",
+    "datetime": "July 12, 2026 | 2:00 PM",
+    "note": "",
+    "href": "/ChooseSeats/50406",
+    "button": "Book Now",
+    "icons": [
+      "Matinee"
+    ]
+  }
+]

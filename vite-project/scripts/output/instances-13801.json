@@ -1,0 +1,32 @@
+[
+  {
+    "day": "Wednesday",
+    "datetime": "June 17, 2026 | 6:30 PM",
+    "note": "",
+    "href": "/ChooseSeats/58001",
+    "button": "Book Now",
+    "icons": [
+      "Pay what you can"
+    ]
+  },
+  {
+    "day": "Sunday",
+    "datetime": "July 05, 2026 | 1:00 PM",
+    "note": "",
+    "href": "/ChooseSeats/58201",
+    "button": "Book Now",
+    "icons": [
+      "Pay what you can"
+    ]
+  },
+  {
+    "day": "Saturday",
+    "datetime": "July 11, 2026 | 1:00 PM",
+    "note": "",
+    "href": "/ChooseSeats/58401",
+    "button": "Book Now",
+    "icons": [
+      "Pay what you can"
+    ]
+  }
+]
