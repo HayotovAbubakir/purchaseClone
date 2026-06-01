@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { Link as RouterLink, useLocation } from 'react-router-dom';
+import { Link as RouterLink, useLocation, useNavigate } from 'react-router-dom';
 import {
   AppBar,
   Toolbar,
@@ -21,6 +21,7 @@ import AccountCircleOutlinedIcon from '@mui/icons-material/AccountCircleOutlined
 import { subNavLinks } from '../../data/catalog';
 import { colors } from '../../theme/theme';
 import { useApp } from '../../context/AppContext';
+import LoginModal from '../auth/LoginModal';
 import logoUrl from '../../assets/logo.png';
 
 export const TOP_BAR_HEIGHT = 48;
@@ -66,8 +67,10 @@ export default function Header({ subNavVisible = true }) {
   const theme = useTheme();
   const isMobile = useMediaQuery(theme.breakpoints.down('md'));
   const location = useLocation();
+  const navigate = useNavigate();
   const { basketCount, basketTotal, user } = useApp();
   const [drawerOpen, setDrawerOpen] = useState(false);
+  const [loginOpen, setLoginOpen] = useState(false);
   const [logoSrc, setLogoSrc] = useState(logoUrl);
 
   const isActive = (path) => {
@@ -75,10 +78,15 @@ export default function Header({ subNavVisible = true }) {
     return location.pathname.toLowerCase() === path.toLowerCase();
   };
 
-  const renderNavLink = (item, mobile = false) => {
+  const openLoginModal = () => {
+    setDrawerOpen(false);
+    setLoginOpen(true);
+  };
+
+  const renderNavLink = (item) => {
     const active = !item.external && isActive(item.path);
     const sx = {
-      color: mobile && drawerOpen ? colors.white : colors.black,
+      color: colors.black,
       fontFamily: '"PT Sans", sans-serif',
       fontSize: '16px',
       fontWeight: 400,
@@ -105,6 +113,101 @@ export default function Header({ subNavVisible = true }) {
     );
   };
 
+  const renderLoginLink = (onClick, sx = {}) => {
+    if (isMobile) {
+      return null;
+    }
+
+    if (user) {
+      return (
+        <Link
+          component={RouterLink}
+          to="/MyAccount"
+          onClick={onClick}
+          sx={{
+            color: colors.white,
+            textDecoration: 'none',
+            display: 'flex',
+            alignItems: 'center',
+            gap: 0.75,
+            fontSize: '16px',
+            textTransform: 'uppercase',
+            ...sx,
+          }}
+        >
+          <AccountCircleOutlinedIcon sx={{ fontSize: 24, opacity: 0.74 }} />
+          MY ACCOUNT
+        </Link>
+      );
+    }
+
+    return (
+      <Link
+        component={RouterLink}
+        to="/LoginLogout"
+        onClick={onClick}
+        sx={{
+          color: colors.white,
+          textDecoration: 'none',
+          display: 'flex',
+          alignItems: 'center',
+          gap: 0.75,
+          fontSize: '16px',
+          textTransform: 'uppercase',
+          ...sx,
+        }}
+      >
+        <LoginIcon sx={{ fontSize: 24, opacity: 0.74 }} />
+        LOGIN
+      </Link>
+    );
+  };
+
+  const logoLink = (
+    <Link
+      href="https://lookingglasstheatre.org/"
+      target="_blank"
+      rel="noopener noreferrer"
+      sx={{ display: 'inline-flex', alignItems: 'center', lineHeight: 0 }}
+    >
+      <Box
+        component="img"
+        src={logoSrc}
+        alt="Company Logo"
+        onError={() => setLogoSrc(LOGO_URL)}
+        sx={{ height: 32, maxWidth: '100%', display: 'block', objectFit: 'contain' }}
+      />
+    </Link>
+  );
+
+  const cartLink = (
+    <Link
+      component={RouterLink}
+      to="/Basket"
+      sx={{
+        color: colors.white,
+        textDecoration: 'none',
+        display: 'flex',
+        alignItems: 'center',
+        gap: 0.75,
+        fontSize: '16px',
+        textTransform: 'uppercase',
+        whiteSpace: 'nowrap',
+      }}
+    >
+      <ShoppingBasketOutlinedIcon sx={{ fontSize: 24, opacity: 0.74 }} />
+      {isMobile ? (
+        <>
+          {basketCount} ${basketTotal.toFixed(2)}
+        </>
+      ) : (
+        <>
+          CART:{basketCount} ${basketTotal.toFixed(2)}
+        </>
+      )}
+    </Link>
+  );
+
   return (
     <>
       <AppBar position="fixed" className="custom-navbar" sx={{ bgcolor: colors.black, height: TOP_BAR_HEIGHT, boxShadow: 4, zIndex: 1200 }}>
@@ -116,103 +219,58 @@ export default function Header({ subNavVisible = true }) {
               height: TOP_BAR_HEIGHT,
               px: { xs: 2, md: 3 },
               justifyContent: 'space-between',
+              position: 'relative',
             }}
           >
-            <Box sx={{ display: 'flex', alignItems: 'center', flex: 1 }}>
-              {isMobile && (
-                <IconButton
-                  color="inherit"
-                  edge="start"
-                  className="drawer-btn"
-                  onClick={() => setDrawerOpen(true)}
-                  aria-label="open drawer"
-                  size="medium"
-                  sx={{ mr: 2, ml: -1.5, color: colors.white }}
-                >
-                  <MenuIcon />
-                </IconButton>
-              )}
-              <Box sx={{ display: 'flex', alignItems: 'center' }}>
-                <Link
-                  href="https://lookingglasstheatre.org/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  sx={{ display: 'inline-flex', alignItems: 'center', lineHeight: 0 }}
-                >
-                  <Box
-                    component="img"
-                    src={logoSrc}
-                    alt="Company Logo"
-                    onError={() => setLogoSrc(LOGO_URL)}
-                    sx={{ height: 32, maxWidth: '100%', display: 'block', objectFit: 'contain' }}
-                  />
-                </Link>
-              </Box>
-            </Box>
+            {isMobile ? (
+              <>
+                <Box sx={{ display: 'flex', alignItems: 'center', flex: 1, minWidth: 0 }}>
+                  <IconButton
+                    color="inherit"
+                    className="drawer-btn"
+                    onClick={() => setDrawerOpen(true)}
+                    aria-label="open drawer"
+                    size="medium"
+                    sx={{ ml: -1, color: colors.white, p: 1 }}
+                  >
+                    <MenuIcon />
+                  </IconButton>
+                  <Box sx={{ ml: '15px', display: 'flex', alignItems: 'center' }}>{logoLink}</Box>
+                </Box>
 
-            <Box
-              className="custom-topbar-links"
-              sx={{
-                display: 'flex',
-                alignItems: 'center',
-                gap: { xs: 2, md: 3 },
-                color: colors.white,
-                fontFamily: '"PT Sans", sans-serif',
-                fontSize: '16px',
-              }}
-            >
-              {user ? (
-                <Link
-                  component={RouterLink}
-                  to="/MyAccount"
+                <Box
+                  className="custom-topbar-links"
                   sx={{
-                    color: colors.white,
-                    textDecoration: 'none',
                     display: 'flex',
                     alignItems: 'center',
-                    gap: 0.75,
+                    flexShrink: 0,
+                    color: colors.white,
+                    fontFamily: '"PT Sans", sans-serif',
                     fontSize: '16px',
-                    textTransform: 'uppercase',
                   }}
                 >
-                  <AccountCircleOutlinedIcon sx={{ fontSize: 24, opacity: 0.74 }} />
-                  MY ACCOUNT
-                </Link>
-              ) : (
-                <Link
-                  component={RouterLink}
-                  to="/LoginLogout"
+                  {cartLink}
+                </Box>
+              </>
+            ) : (
+              <>
+                <Box sx={{ display: 'flex', alignItems: 'center', flex: 1 }}>{logoLink}</Box>
+                <Box
+                  className="custom-topbar-links"
                   sx={{
-                    color: colors.white,
-                    textDecoration: 'none',
                     display: 'flex',
                     alignItems: 'center',
-                    gap: 0.75,
+                    gap: 3,
+                    color: colors.white,
+                    fontFamily: '"PT Sans", sans-serif',
                     fontSize: '16px',
-                    textTransform: 'uppercase',
                   }}
                 >
-                  <LoginIcon sx={{ fontSize: 24, opacity: 0.74 }} />
-                  LOGIN
-                </Link>
-              )}
-              <Link
-                component={RouterLink}
-                to="/Basket"
-                sx={{
-                  color: colors.white,
-                  textDecoration: 'none',
-                  display: 'flex',
-                  alignItems: 'center',
-                  gap: 0.75,
-                  fontSize: '16px',
-                  textTransform: 'uppercase',
-                }}
-              >
-                <ShoppingBasketOutlinedIcon sx={{ fontSize: 24, opacity: 0.74 }} />
-                CART:{basketCount} ${basketTotal.toFixed(2)}
-              </Link>
-            </Box>
+                  {renderLoginLink()}
+                  {cartLink}
+                </Box>
+              </>
+            )}
           </Toolbar>
         </Container>
       </AppBar>
@@ -240,9 +298,36 @@ export default function Header({ subNavVisible = true }) {
         </Box>
       </Box>
 
-      <Drawer anchor="left" open={drawerOpen} onClose={() => setDrawerOpen(false)}>
-        <Box sx={{ width: 280, bgcolor: colors.orange, height: '100%', pt: 2 }}>
-          <List>
+      <Drawer
+        anchor="left"
+        open={drawerOpen}
+        onClose={() => setDrawerOpen(false)}
+        ModalProps={{
+          sx: {
+            top: `${TOP_BAR_HEIGHT}px`,
+            height: `calc(100% - ${TOP_BAR_HEIGHT}px)`,
+          },
+        }}
+        sx={{
+          zIndex: 1150,
+          '& .MuiBackdrop-root': {
+            top: TOP_BAR_HEIGHT,
+            height: `calc(100% - ${TOP_BAR_HEIGHT}px)`,
+          },
+        }}
+        PaperProps={{
+          sx: {
+            top: TOP_BAR_HEIGHT,
+            height: `calc(100% - ${TOP_BAR_HEIGHT}px)`,
+            width: '75vw',
+            maxWidth: 320,
+            bgcolor: colors.orange,
+            boxShadow: 'none',
+          },
+        }}
+      >
+        <Box sx={{ display: 'flex', flexDirection: 'column', height: '100%', bgcolor: colors.orange }}>
+          <List sx={{ flex: 1, pt: 2, pb: 0 }}>
             {subNavLinks.map((item) => (
               <ListItemButton
                 key={item.label}
@@ -250,19 +335,88 @@ export default function Header({ subNavVisible = true }) {
                 {...(item.external ? { href: item.path, target: '_blank' } : { to: item.path })}
                 onClick={() => setDrawerOpen(false)}
                 selected={!item.external && isActive(item.path)}
+                sx={{
+                  py: 1.75,
+                  px: 2.5,
+                  '&.Mui-selected': { bgcolor: colors.orangeActive },
+                  '&.Mui-selected:hover': { bgcolor: colors.orangeActive },
+                  '&:hover': { bgcolor: 'rgba(0,0,0,0.06)' },
+                }}
               >
-                <ListItemText primary={item.label} primaryTypographyProps={{ fontSize: '16px' }} />
+                <ListItemText
+                  primary={item.label}
+                  primaryTypographyProps={{
+                    fontSize: '16px',
+                    fontWeight: 700,
+                    textTransform: 'uppercase',
+                    color: colors.black,
+                    fontFamily: '"PT Sans", sans-serif',
+                  }}
+                />
               </ListItemButton>
             ))}
-            <ListItemButton component={RouterLink} to="/MyAccount" onClick={() => setDrawerOpen(false)}>
-              <ListItemText primary="MY ACCOUNT" />
-            </ListItemButton>
-            <ListItemButton component={RouterLink} to="/Basket" onClick={() => setDrawerOpen(false)}>
-              <ListItemText primary={`CART: ${basketCount} $${basketTotal.toFixed(2)}`} />
-            </ListItemButton>
           </List>
+
+          <Box
+            sx={{
+              bgcolor: colors.black,
+              px: 2.5,
+              py: 2,
+              mt: 'auto',
+            }}
+          >
+            {user ? (
+              <Link
+                component={RouterLink}
+                to="/MyAccount"
+                onClick={() => setDrawerOpen(false)}
+                sx={{
+                  color: colors.white,
+                  textDecoration: 'none',
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: 1,
+                  fontSize: '16px',
+                  textTransform: 'uppercase',
+                  fontFamily: '"PT Sans", sans-serif',
+                }}
+              >
+                <AccountCircleOutlinedIcon sx={{ fontSize: 24, opacity: 0.74 }} />
+                MY ACCOUNT
+              </Link>
+            ) : (
+              <Box
+                component="button"
+                type="button"
+                onClick={openLoginModal}
+                sx={{
+                  color: colors.white,
+                  textDecoration: 'none',
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: 1,
+                  fontSize: '16px',
+                  textTransform: 'uppercase',
+                  fontFamily: '"PT Sans", sans-serif',
+                  border: 'none',
+                  background: 'none',
+                  cursor: 'pointer',
+                  p: 0,
+                }}
+              >
+                <LoginIcon sx={{ fontSize: 24, opacity: 0.74 }} />
+                LOGIN
+              </Box>
+            )}
+          </Box>
         </Box>
       </Drawer>
+
+      <LoginModal
+        open={loginOpen}
+        onClose={() => setLoginOpen(false)}
+        onSuccess={() => navigate('/MyAccount')}
+      />
     </>
   );
 }

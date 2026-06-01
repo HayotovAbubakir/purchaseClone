@@ -1,90 +1,55 @@
 import { useState } from 'react';
-import { Link as RouterLink } from 'react-router-dom';
-import { Card, CardContent, CardActions, Typography, Button, Box, Link } from '@mui/material';
-import { colors } from '../../theme/theme';
 
-export default function EventCard({ event }) {
+export default function EventCard({ event, onBookNow }) {
   const [expanded, setExpanded] = useState(false);
 
   return (
-    <Card
-      className="EventItem"
-      elevation={1}
-      sx={{
-        width: '100%',
-        maxWidth: 345,
-        display: 'flex',
-        flexDirection: 'column',
-        borderRadius: '4px',
-        boxShadow: '0 2px 1px 0 rgba(0,0,0,0.2), 0 3px 25px 0 rgba(0,0,0,0.12), 0 2px 6px 0 rgba(0,0,0,0.05)',
-      }}
+    <article
+      className="EventItem flex w-[345px] max-w-full shrink-0 flex-col overflow-hidden rounded-[4px] border border-white bg-white shadow-[0_2px_1px_0_rgba(0,0,0,0.2),0_3px_25px_0_rgba(0,0,0,0.12),0_2px_6px_0_rgba(0,0,0,0.05)]"
+      style={{ marginBottom: 12 }}
     >
-      <Box
-        sx={{
-          height: 194,
-          backgroundImage: `url(${event.imageUrl})`,
-          backgroundSize: 'cover',
-          backgroundPosition: 'center',
-        }}
+      <div
+        className="h-[194px] bg-cover bg-center"
+        style={{ backgroundImage: `url(${event.imageUrl})` }}
         role="img"
         title={`${event.name} image`}
       />
 
-      <CardActions
-        sx={{
-          justifyContent: 'flex-end',
-          px: 0,
-          py: 0,
-          mt: -6,
-          minHeight: 48,
-          position: 'relative',
-          zIndex: 1,
-        }}
-      >
-        <Button
-          component={RouterLink}
-          to={`/EventAvailability?EventId=${event.id}&ref=bookNow&scroll=timeAndDates`}
-          className="custom-button"
-          sx={{
-            bgcolor: colors.orange,
-            color: colors.black,
-            fontWeight: 500,
-            fontSize: '16px',
-            px: '14px',
-            py: '12px',
-            borderRadius: 0,
-            textTransform: 'uppercase',
-            boxShadow: 'none',
-            '&:hover': { bgcolor: colors.orangeDark, boxShadow: 'none' },
-          }}
+      <div className="flex min-h-[48px] items-center justify-end">
+        <button
+          type="button"
+          onClick={() => onBookNow(event)}
+          className="custom-button cursor-pointer bg-[#ff9217] px-[14px] py-3 font-sans text-base font-medium uppercase leading-6 tracking-[0.15px] text-black transition-colors hover:bg-[#e07a0f]"
         >
           Book Now
-        </Button>
-      </CardActions>
+        </button>
+      </div>
 
-      <CardContent sx={{ pt: 1, px: 2, pb: 2 }}>
-        <Typography component="h2" sx={{ fontWeight: 700, fontSize: '16px', mb: 0.5, textTransform: 'uppercase' }}>
+      <div className="px-4 pb-4 pt-1">
+        <h2 className="custom-body-text mb-0.5 font-sans text-base font-bold leading-6 tracking-[0.15px] text-[rgba(0,0,0,0.87)]">
           {event.name}
-        </Typography>
-        <Typography sx={{ fontSize: '16px', mb: 1, textTransform: 'capitalize' }}>
+        </h2>
+        <p
+          className="custom-body-text mb-2 font-sans text-base capitalize leading-6 tracking-[0.15px] text-[rgba(0,0,0,0.87)]"
+        >
           {event.dateRange}
-        </Typography>
-        <Typography sx={{ fontSize: '16px', lineHeight: 1.5 }}>
+        </p>
+        <p className="custom-body-text font-sans text-base leading-6 tracking-[0.15px] text-[rgba(0,0,0,0.87)]">
           {expanded ? event.htmlDescription.replace(/<[^>]+>/g, '') : event.teaser}
           {!expanded && (
             <>
-              {' '}
-              <Link
-                component="button"
+              {'\u00a0'}
+              <button
+                type="button"
                 onClick={() => setExpanded(true)}
-                sx={{ color: colors.text, textDecoration: 'none', font: 'inherit', border: 'none', background: 'none', cursor: 'pointer', p: 0 }}
+                className="cursor-pointer border-none bg-transparent p-0 font-inherit text-black hover:underline"
               >
                 Read more
-              </Link>
+              </button>
             </>
           )}
-        </Typography>
-      </CardContent>
-    </Card>
+        </p>
+      </div>
+    </article>
   );
 }

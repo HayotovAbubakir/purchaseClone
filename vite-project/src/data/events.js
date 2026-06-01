@@ -1,5 +1,12 @@
 import eventInstances from './event-instances.json';
 
+const defaultTicketTypes = [
+  { id: 'adult', label: 'Adult', price: 78.48 },
+  { id: 'senior', label: 'Senior (65+)', price: 68.48 },
+  { id: 'student', label: 'Student', price: 48.15 },
+  { id: 'child', label: 'Child (under 12)', price: 38.15 },
+];
+
 export const events = [
   {
     id: '11801',
@@ -14,6 +21,7 @@ export const events = [
     venue: 'The Joan and Paul Weill Theatre',
     address: '163 E Pearson St at Michigan Ave, Chicago, IL 60611',
     instances: eventInstances['11801'],
+    ticketTypes: defaultTicketTypes,
   },
   {
     id: '13801',
@@ -28,6 +36,11 @@ export const events = [
     venue: 'Lookingglass Theatre',
     address: '163 E Pearson St at Michigan Ave, Chicago, IL 60611',
     instances: eventInstances['13801'],
+    ticketTypes: [
+      { id: 'adult', label: 'Adult', price: 45.0 },
+      { id: 'senior', label: 'Senior (65+)', price: 40.0 },
+      { id: 'student', label: 'Student', price: 30.0 },
+    ],
   },
 ];
 
